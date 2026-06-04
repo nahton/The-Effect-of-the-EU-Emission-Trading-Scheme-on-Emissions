@@ -1,0 +1,12 @@
+# Generated reproduction outputs
+outputs/
+Rplots.pdf
+
+# Local R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db

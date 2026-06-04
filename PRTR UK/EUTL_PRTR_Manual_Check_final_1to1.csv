@@ -1,0 +1,378 @@
+EUTL_ID;EUTL_Name;PRTR_Site_Name;PRTR_PlantID;Distance_m;avg_name_score;manual
+GB_207547;Peak Gen Fareham;Fareham;14414;0.004662179;0.326755521;1
+GB_616;The Westfield Biomass Plant;Westfield Biomass Plant;9031;0.767371234;0.53710216;1
+GB_687;CATS Terminal;Seal Sands  Hexamethylenediamine;14066;1.629253294;0.369330143;0
+GB_1017;Solenis - Bradford;Low Moor;40520;1.674167389;0.369215839;0
+GB_210979;Conrad (Benfleet);Benfleet Power Generation Plant;43078;1.878946574;0.395129581;1
+GB_207765;SDC01;Thurrock Data Centre;14656;1.956979528;0.279632505;0
+GB_208974;Global Switch Limited;London;14671;1.995715211;0.360829086;0
+GB_210454;Private Road No.5;Colwick;40499;2.274646934;0.313245951;0
+GB_845;McCain - Grantham;Grantham;14970;2.339311583;0.375465839;1
+GB_987;J G Pears (Newark) Limited;Low Marnham;40270;2.34492912;0.407473414;0
+GB_202260;ETAC Plant;Saltend Bioethanol Plant;43108;2.425101287;0.376854727;0
+GB_358;BP Chemicals Ltd, Hull;Saltend Bioethanol Plant;43108;2.425101287;0.380054618;0
+GB_989;James Cropper PLC;Burneside Mills;8517;3.153637949;0.315957292;0
+GB_994;Billerudkorsnas Beetham Ltd;Milnthorpe;4333;3.910807563;0.36755521;0
+GB_208745;20 Fenchurch Street;London;14662;4.376738732;0.316182213;0
+GB_210978;Conrad (Heybridge) Limited;Maldon;43079;5.075049845;0.34907695;0
+GB_209182;LON3;Sovereign House;14931;5.121583104;0.385188061;0
+GB_259;Sterling Pharma Solutions Ltd;Cramlington;8395;5.234312558;0.401922067;0
+GB_273;Rhodia Pharma Solutions - Holmes Chapel;Cramlington;8395;5.234312558;0.374380662;0
+GB_210106;Greys Hall Power Limited;Sudbury;43075;5.822433932;0.317727743;0
+GB_1268;Perenco Natural Gas Terminal;Bacton;396;5.977470221;0.381616632;0
+GB_859;Rockwool Bridgend;Bridgend;7059;7.056751545;0.340907015;1
+GB_755;Diageo Runcorn Packaging;Runcorn;8934;7.325111663;0.435386473;1
+GB_1064;Sonoco Cores and Paper Ltd;Stainland;11700;7.865827767;0.410103886;0
+GB_1093;Linergy Ltd;Glenavy;5182;8.088349139;0.428442029;0
+GB_865;Venator Materials UK Limited;Greatham;9099;9.607877795;0.380122701;0
+GB_586;Moy Park Ltd., Dungannon;Dungannon;8995;10.89003785;0.368521394;1
+GB_587;Moy Park Ltd., Craigavon;Dungannon;8995;10.89003785;0.251854727;0
+GB_202236;LDC2;East Grinstead;13443;11.88778425;0.112965839;0
+GB_200;Star Energy UK Onshore Ltd;Alton;10534;12.03061741;0.350392739;0
+GB_206071;Clifford Chance - London;10 Upper Bank Street;14210;13.170473;0.291753717;0
+GB_202238;JPM - 25 Bank Street;25 Bank Street, Canary Wharf;13438;15.1613813;0.433336209;1
+GB_817;Ibstock Brick Ltd Chesterton Factory;Chesterton Brickworks;8453;16.71985797;0.444811077;1
+GB_212520;Pimbo;Skelmersdale;40522;18.24850963;0.326854727;0
+GB_1112;Barclays Capital 5 North Colonnade;1 Churchill Place, Canary Wharf;8970;19.41135239;0.409616165;0
+GB_206835;Colt technology services - Welwyn;Welwyn Garden City;14229;19.67346237;0.405792785;0
+GB_246;BYK Additives Limited;Widnes;9585;23.26053237;0.320230796;0
+GB_821;Ibstock Brick Ltd - Funton Factory;Funton Brickworks;8456;24.00335538;0.377671721;0
+GB_803;PQ Silicas Boilerplant;Warrington;1379;26.84619265;0.296804222;0
+GB_796;Magners GB Ltd;Shepton Mallet;7606;28.0294241;0.331219807;0
+GB_203132;Ingevity UK Ltd;Warrington;13765;28.3167179;0.429632505;0
+GB_1090;William Forrest & Son (Paisley) Limited;Motherwell;9696;28.90756465;0.372643258;0
+GB_917;Tioxide Grimsby CHP Plant;Huntsman Tioxide Grimsby CHP;8156;30.36529051;0.497990901;1
+GB_202711;Barclays Capital - 10 South Colonnade;10 South Colonnade, Canary Wharf;13447;30.43870585;0.38804691;1
+GB_780;Barclays Head Office;London;8972;30.55082998;0.351854727;0
+GB_1261;HQ3 Boilers and Generators;40 Bank Street, Canary Wharf;13059;31.24191133;0.401712277;0
+GB_450;EPR Glanford Ltd;Glanford;8759;32.66275558;0.484493616;1
+GB_1040;Carlsberg UK Ltd - Northampton Brewery;Northampton Brewery;14400;32.93360739;0.480933171;1
+GB_646;Boiler Plant - Drungans;Cargenbridge;2635;34.12518508;0.406715839;0
+GB_375;Sensient Flavors Limited;Felinfach;8633;34.56876288;0.390975098;0
+GB_785;Volac International Ltd;Felinfach;8633;34.56876288;0.360041862;0
+GB_225;AAK (UK);King George Dock;9252;34.58911549;0.345604727;0
+GB_1038;International Paper UK Ltd;Inverurie;6983;35.3048507;0.416084747;0
+GB_208262;Centurylink Communications UK Limited;London;14665;35.52681314;0.353884642;0
+GB_824;Ibstock Brick Ltd Laybrook Factory;Laybrook Brickworks;8458;35.81632808;0.448026976;1
+GB_208462;Maylands;Hemel Hempstead;14663;35.93280863;0.375465839;0
+GB_447;A. Brunnschweiler and Co.;Hyde;8755;36.57595277;0.379632505;0
+GB_793;Seqirus Vaccines;Speke;9306;37.26271602;0.367132505;0
+GB_1046;Milklink Staplemead;Staplemead Creamery;9567;37.5041539;0.347066716;1
+GB_210536;Pelagia Aberdeen;Aberdeen;5206;39.19960248;0.362965839;1
+GB_848;Novartis Grimsby Limited;Grimsby;8021;39.37689455;0.382311077;1
+GB_205862;Egger Barony;Auchinleck;14697;40.75342546;0.257410283;0
+GB_924;Budweiser Stag Brewing Company Ltd;Stag Brewery;9312;40.89881405;0.439986041;1
+GB_816;Ibstock Brick Ltd Chailey Factory;Chailey Brickworks;8452;41.32999596;0.360320336;1
+GB_206174;The Combination Of Rothes Distillers Limited;Rothes;13624;41.935138;0.325928801;1
+GB_741;Sofidel UK Baglan;Baglan;40536;42.68036204;0.358997585;1
+GB_208966;Oliver's Yard - LHR18;London;14681;42.70165467;0.269398587;0
+GB_993;Ahlstrom-Munksjo Chirnside Limited;Chirnside;7538;44.60569106;0.316847605;1
+GB_659;DSM Dalry;Dalry;9075;45.77760964;0.331484357;1
+GB_944;Glen Dimplex UK Limited - Coopers Bank;Coopers Bank;13737;46.89363715;0.299354727;1
+GB_888;Vernacare;Bolton;8070;47.91510556;0.325928801;0
+GB_302;Weston Point CHP Station;Salt Union CHP;8497;48.02240294;0.464562159;0
+GB_802;HINTON,PERRY & DAVENHILL LTD;Dreadnought Brickworks;8170;48.5251448;0.357721083;0
+GB_369;Gerber Foods Soft Drinks Ltd;Bridgwater;8622;48.5387081;0.36157695;0
+GB_1022;Solvay Interox Limited;Warrington;13765;49.28821217;0.422489648;0
+GB_206838;Computer Centre;Camberley;14230;49.71184277;0.427780653;0
+GB_1034;boiler house marlbrook;Marlbrook;9257;50.16458279;0.380642606;1
+GB_818;Ibstock Brick Ltd Dorket Head Factory;Dorket Head Brickworks;8454;50.65634302;0.409935535;1
+GB_991;Cargill - Trafford Park;Trafford Park;8540;50.9927948;0.478960955;1
+GB_1006;Rolls-Royce plc - Derby;Nightingale Road, Derby;8573;52.39477894;0.42535443;0
+GB_943;Etex Building Performance Ltd- Ferrybridge;Ferrybridge;11059;52.48254008;0.382462608;1
+GB_831;Ibstock Brick Ltd Roughdales Factory;Roughdales Brickworks;8465;52.48602956;0.388759489;1
+GB_596;Nynas UK AB Dundee;Dundee;3122;52.99321147;0.357410283;1
+GB_317;Syral Greenwich;Greenwich;9573;53.15458296;0.527780653;1
+GB_1021;Pilkington United Kingdom Ltd - Watson Street;Watson Street;8237;53.49036717;0.363576339;1
+GB_209904;Francis Crick;London;14954;53.51269899;0.320230796;0
+GB_759;University of Exeter;Exeter;8949;54.46210759;0.332410283;1
+GB_830;Ibstock Brick Ltd - Ravenhead;Ravenhead Brickworks;8464;54.75768274;0.355035082;1
+GB_203794;Lucite International - Billingham;Billingham;7045;56.87848832;0.356514226;1
+GB_976;Essity UK Limited - Prudhoe Mill;Skelmersdale;40522;57.16622056;0.378734427;0
+GB_513;University Hospitals of Leicester NHS Trust;Leicester Royal Infirmary;8854;57.42078451;0.405381179;1
+GB_1252;LRS Coleford;Royal Forest Factory;14215;57.94902283;0.418521394;0
+GB_988;Marley Limited - Keele Works;Keele Works;40507;58.02677685;0.365743616;1
+GB_1269;Primary Energy Plant;Broadcasting House;14219;58.33636556;0.356352082;0
+GB_213041;Baxter Healthcare Limited Thetford;Thetford;40711;58.56115205;0.349183787;1
+GB_812;Ibstock Brick Ltd - Ashdown;Ashdown Brickworks;8448;59.37713533;0.402648378;1
+GB_885;ISP Alginates (UK)Ltd.;Girvan;7242;59.63540278;0.401427377;0
+GB_182;Glaxo Wellcome Operations - Dartford;Ulverston;8171;59.83006349;0.364599825;0
+GB_597;GlaxoSmithKline Montrose;Ulverston;8171;59.83006349;0.390743616;0
+GB_276;University of Bristol;Bristol;8426;60.04447353;0.405029331;1
+GB_205950;Hanson Quarry Products Europe - Ardingly;Ardingly;14211;61.65283966;0.33906233;1
+GB_204764;Norbord Inverness;Inverness;2678;62.36228444;0.421244706;1
+GB_204992;Liberty Merchant Bar plc;Scunthorpe;6515;62.39381883;0.296299172;0
+GB_835;Ibstock Brick Ltd West Hoathly Factory;West Hoathly Brickworks;8470;62.57395872;0.42522197;1
+GB_1091;Wellpark Brewery;Caledonian Brewery;11490;62.69380429;0.427885872;0
+GB_957;Stoelzle Flaconnage Limited;Knottingley;8730;63.13006338;0.332583063;0
+GB_207546;Peak Gen Barry;Barry;14451;63.74541485;0.3248706;1
+GB_938;PVC3 Barry Site;Barry;14451;63.74541485;0.329632505;1
+GB_974;SCA Hygiene Products UK Ltd - Oakenholt Paper Mill;Oakenholt;4353;64.44319141;0.37819361;1
+GB_205884;Vivergo Bioethanol Plant;Saltend Bioethanol Plant;43108;65.07834462;0.425465839;1
+GB_1028;Princes Limited Wisbech;Wisbech;11110;66.31881202;0.377648378;1
+GB_217;WEETABIX LTD;Burton Latimar;9103;66.59308837;0.348084886;0
+GB_834;Ibstock Brick Ltd Throckley Factory;Throckley Brickworks;8469;67.24390022;0.437296942;1
+GB_900;Combustion Process Nestlé UK Tutbury;Burton-On-Trent;6622;67.32122949;0.446913488;0
+GB_459;Archer Daniels Midland Erith Ltd;Erith;8769;67.72587857;0.353442029;0
+GB_204036;Arconic Manufacturing (GB) Limited;Kitts Green;6997;68.23912789;0.288651264;0
+GB_660;HM Naval Base Clyde;Faslane;9076;68.57126524;0.392539773;0
+GB_207545;Peak Gen Llandarcy;Llandarcy;14449;68.57126869;0.328243616;1
+GB_308;Matthews Power Station;Heald Green;13445;68.67898147;0.304253717;0
+GB_175;Ford Bridgend Engine Plant;Bridgend;8205;69.61786705;0.429632505;1
+GB_575;The Lycra Company UK Limited;Maydown;11035;69.80324761;0.321960548;0
+GB_998;Dairy Crest Ltd;Davidstow Creamery;9265;70.20761784;0.443773919;1
+GB_226;Dairy Crest Ltd - Crudgington;Crudgington;9266;71.14399418;0.364989177;1
+GB_889;Energy Centre - Lanxess Solutions Ltd;Trafford Park;43111;71.44326686;0.303950123;0
+GB_806;Energy Centre - Wombourne;Wombourne;7800;71.8070941;0.301371636;1
+GB_262;Jaguar Land Rover Limited Solihull;Solihull;8399;72.43273081;0.305807719;1
+GB_641;The Caledonian Cheese Company Limited;Stranraer;9058;72.58761261;0.345240971;0
+GB_180;Briar Chemicals Limited;Norwich;8217;73.74077591;0.419315045;0
+GB_809;NP. Lancaster Tissue;Lancaster;13435;74.46104843;0.497468762;1
+GB_104;Thames Power Services Ltd;Barking;8080;74.48548072;0.31455314;0
+GB_342;Vauxhall Motors, Ellesmere Port;Ellesmere Port;8581;76.48925402;0.426656315;1
+GB_397;Highfield Campus Boilers;Southampton;8663;76.72453059;0.390112303;0
+GB_805;Knauf Insulation Queensferry;Queensferry;7047;78.77968703;0.318485319;1
+GB_949;MCBC (UK) Ltd, Burton Brewery;Shobnall Maltings;9288;78.90235972;0.289178429;0
+GB_1066;Curtis Fine Papers Ltd, Guardbridge;St Andrews;7295;79.33099037;0.40532695;0
+GB_344;Package Boiler Plant;Eaglescliffe;8585;79.87526598;0.400664251;0
+GB_832;Ibstock Brick Ltd South Holmwood Factory;South Holmwood Brickworks;8466;80.17943097;0.428071659;1
+GB_881;Weidmann Whiteley Ltd;Pool Paper Mills;8488;81.23299689;0.345400479;0
+GB_841;marstons beer company plc-park brewery;Park Brewery;9632;83.81476757;0.421192334;1
+GB_643;GSK Irvine;Irvine;2611;84.26052938;0.546299172;1
+GB_500;British American Tobacco;Millbrook;8834;86.24558804;0.340280653;0
+GB_428;Magnox Ltd, Wylfa;Wylfa;8720;86.65735686;0.326854727;1
+GB_979;Knauf Immingham;Immingham Power Station;40493;86.72069118;0.472225098;1
+GB_201736;Monckton Road Power Station;Wakefield;13459;87.00449118;0.342310568;0
+GB_828;Ibstock Brick Limited - Parkhouse;Parkhouse Brickworks;8462;88.81990771;0.424476429;1
+GB_1074;Bowling Park Drive Chemicals;Bradford;836;89.89415307;0.398680124;0
+GB_208883;Kemira Chemicals (UK) Ltd;Bradford;836;89.89415307;0.342132505;0
+GB_271;Gower Street Heat & Power;London;8413;90.30782327;0.315346791;0
+GB_619;Heriot Watt University;Riccarton;9035;90.3163758;0.408420384;0
+GB_208302;Peak Gen Havant;Havant;14684;90.46930251;0.357410283;1
+GB_162;Naylor Drainage;Cawthorne;8173;91.00070499;0.427780653;0
+GB_561;Energy Centre - Dagenham;Dagenham Energy Centre;11983;91.26846754;0.469026445;1
+GB_782;Barclays Data Centre;Gloucester;8971;92.83723882;0.360188061;0
+GB_421;District Heating and CHP;Norwich District Heating and CHP;13750;94.37316768;0.501854727;1
+GB_205497;Snacks Manufacturing Plant Leicester;Leicester;9128;94.5631844;0.334262135;1
+GB_212522;Bancroft;Burnley;40697;94.92273468;0.358005521;0
+GB_1062;First Milk - Aspatria Creamery;Aspatria Creamery;11085;96.78146177;0.469058275;1
+GB_88;EP SHB Limited;South Humber;8055;97.18669862;0.383799172;1
+GB_93;DGEL Rye House Power Station;Hoddesdon;41362;97.62435806;0.370902346;0
+GB_543;White City Place;BBC Television Centre - Shepherds Bush;11072;97.67772277;0.376854727;0
+GB_894;Hanson - Accrington;Stewartby Brickworks;8333;98.07267867;0.362230544;0
+GB_895;Hanson - Caernarfon;Stewartby Brickworks;8333;98.07267867;0.362230544;0
+GB_896;Hanson - Claughton;Stewartby Brickworks;8333;98.07267867;0.322688061;0
+GB_931;Hanson - Stewartby;Stewartby Brickworks;8333;98.07267867;0.383799172;1
+GB_932;Hanson - Swillington;Stewartby Brickworks;8333;98.07267867;0.331352082;0
+GB_237;BAE SYSTEMS - Warton;Samlesbury Aerodrome;8345;98.18878252;0.435188061;0
+GB_356;BAE SYSTEMS Woodford;Samlesbury Aerodrome;8345;98.18878252;0.438606864;0
+GB_909;BAE Systems - Samlesbury;Samlesbury Aerodrome;8345;98.18878252;0.415937866;1
+GB_810;Johnson Matthey Plc;Royston;8482;99.09915087;0.40423568;0
+GB_205754;Hanson Quarry Products Europe - West Drayton;West Drayton;13683;99.62581604;0.366272717;1
+GB_811;Ibstock Brick Ltd - Aldridge;Leicester Brickworks;8459;100.7013943;0.435819374;0
+GB_825;Ibstock Brick Limited - Leicester;Leicester Brickworks;8459;100.7013943;0.456081781;1
+GB_790;RAF Shawbury;Shawbury;9612;101.6754041;0.526160283;1
+GB_850;Sofidel UK Limited;Leicester;4319;101.6990678;0.36428859;0
+GB_833;Ibstock Brick Ltd Stourbridge Factory;Stourbridge Brickworks;8467;102.1982551;0.429386293;1
+GB_76;Tate and Lyle Sugars;Silvertown;8030;102.8444208;0.317132505;0
+GB_1077;Lakeland Dairies (N.I.) Ltd, Banbridge;Banbridge;14704;103.0720402;0.354632505;1
+GB_201839;Generation & Sludge Heating Facilities - Riverside;Riverside STW;13441;103.380505;0.350943046;1
+GB_854;Huhtamaki (Lurgan) Ltd;Lurgan;7297;103.4853217;0.356021394;1
+GB_1032;Mondelez Confectionery - Sheffield;Sheffield;8147;105.8523852;0.352549172;1
+GB_1033;BOILER HOUSE CHIRK;Chirk;8145;106.2516342;0.32407695;1
+GB_1001;Hollingsworth & Vose Co Ltd;Winchcombe;8423;108.047644;0.317511293;0
+GB_941;Bentley - Crewe;Crewe;8368;108.2053377;0.371940197;1
+GB_86;Esso Petroleum Company Ltd;Hythe;7058;108.5437237;0.286775362;0
+GB_880;Sofidel UK Lancaster;Lancaster;8025;108.9353155;0.309588932;1
+GB_823;John Knight Limited;Silvertown;8326;109.67812;0.259935535;0
+GB_138;Mill CHP;Keyingham;8127;111.9706645;0.358336209;0
+GB_1008;Cabot Carbon Limited;Stanlow;9591;112.0374789;0.30939441;0
+GB_856;Ardagh Glass - Wheatley;Wheatley;8543;113.522464;0.353045204;1
+GB_866;Boilerhouse;Star Brewery;8693;114.7944512;0.333294121;0
+GB_205816;Allegheny Technologies Limited;Sheffield;13691;116.2522527;0.32150961;0
+GB_204969;Polestar UK Print Ltd (Sheffield);Sheffield;7783;117.4646434;0.340280653;0
+GB_797;PFI Hospital;Queens Hospital;9611;118.876141;0.467595468;1
+GB_364;De Montfort University;Leicester;8613;118.9834953;0.342342943;0
+GB_372;I.B.C. Vehicles Limited;Luton;8628;119.9323938;0.112965839;0
+GB_807;McCain Steam Boilers - Whittlesey;Whittelsey;8687;119.9876638;0.356335014;1
+GB_451;Masterfoods, Peterborough, Mars UK Ltd;Melton Mowbray;8754;121.2093214;0.382943945;0
+GB_908;Petfood Manufacturing;Melton Mowbray;8754;121.2093214;0.38412986;0
+GB_1086;First Milk - Haverfordwest Creamery;Merlins Bridge;9346;121.6551662;0.397958624;0
+GB_886;INOVYN Chlorvinyls Newton Aycliffe;Newton Aycliffe;1312;122.6270266;0.349676078;1
+GB_207767;STE Campus;Stevenage Data Centre;14657;122.8608394;0.369315045;1
+GB_202259;EM-UK-C01 (Basingstoke);Basingstoke;13439;124.7610588;0.548151024;1
+GB_887;ELYO CHP Plant at Kellogg;Manchester;1496;125.2655267;0.404486306;0
+GB_206228;SPARTAN UK LTD;Gateshead;13714;125.2865447;0.406616632;0
+GB_166;Horlicks Factory;Slough;8181;127.0191949;0.293521394;0
+GB_870;ESCOL PRODUCTS LTD;Huntingdon;6549;127.9040046;0.253442029;0
+GB_765;National Semiconductor (UK) Ltd;Greenock;9653;131.0722304;0.330768869;0
+GB_213420;Walker Balby-B;Balby Carr Power Plant;43096;131.7066973;0.40939441;1
+GB_210513;Huntsman Energy Center;Wilton Energy Centre;40496;133.1343253;0.45605296;0
+GB_1002;H.J. Heinz – Kitt Green;Wigan;8715;135.1731364;0.362965839;0
+GB_94;Roquette UK Limited - CHP Plant;Corby;8063;135.5592595;0.290743616;0
+GB_971;Inveresk Group PLC;St Cuthberts Mill;8178;135.8947362;0.283133906;0
+GB_1255;Barclays Data Centre Slough;Slough;11988;136.4739082;0.264200406;2
+GB_204922;Dow Silicone Manufacturing Installation;Barry;14183;138.3593769;0.317239343;0
+GB_862;Smurfit Kappa SSK;Nechells;6587;139.1495384;0.31026976;0
+GB_220;UK Power Reserve Watson St Power Station;Burtonhead Road;43418;143.6801399;0.366513924;0
+GB_975;Northwood Tissue (Chesterfield) Limited;Chesterfield Paper Mill;40528;145.0930074;0.407970122;1
+GB_997;Essity Operations Manchester Mill;Tissue and Towel Plant;11122;147.3269432;0.402738566;2
+GB_206837;Colt - Powergate;London;14673;147.686957;0.343124569;0
+GB_212621;Westwood Power Limited;Margate;40702;147.7482755;0.324275362;0
+GB_571;Lakeland Dairies (Omagh) Ltd;Omagh;8992;148.0373017;0.320541596;2
+GB_602;CalaChem Limited;Grangemouth;9647;149.5022042;0.387587051;0
+GB_208463;Campus;Hemel Hempstead;14677;149.8402467;0.396299172;0
+GB_983;O-I Glass Limited;Alloa;11470;151.7626885;0.379632505;0
+GB_1078;Michelin Tyre Plc;Dundee;2684;151.7763161;0.277495753;0
+GB_508;ACS Dobfar UK Ltd;Bedlington;8848;152.0101458;0.346299172;0
+GB_206090;Ensus Wilton Site;Middlesbrough;84;154.8965882;0.323970112;0
+GB_208823;Ensus UK Ltd;Middlesbrough;84;154.8965882;0.371940197;0
+GB_1027;Princes Long Sutton;Bridge Road Food Factory;9273;155.0999562;0.39147461;0
+GB_860;BIP Oldbury Site;Oldbury;8951;155.6234808;0.50474073;2
+GB_201;CELSA Manufacturing (UK) Limited;Castle Works;14014;156.6240858;0.395714377;0
+GB_206096;CELSA Manufacturing (UK) Ltd – Rod & Bar Mill;Castle Works;14014;156.6240858;0.404632505;0
+GB_402;Central Boilerhouse - District Heating;London;8671;158.8098492;0.358336209;0
+GB_341;SembCorp Utilities (UK) Ltd Wilton Power Station;Seal Sands;8308;159.332877;0.362965839;0
+GB_952;Premier Ambient Products (UK);Ambrosia Creamery;11108;161.9994707;0.395682713;0
+GB_955;AGC Leeds;Leeds;8263;163.1086421;0.331484357;2
+GB_956;AGC Knottingley;Leeds;8263;163.1086421;0.112965839;0
+GB_757;Tameside General Hospital;Ashton - U - Lyne;8903;163.2809567;0.373029941;0
+GB_499;The Monckton Coke & Chemical Company Ltd;Barnsley;4370;167.8740647;0.24907695;0
+GB_863;Energy Centre;Bromborough;8596;171.5673678;0.307993034;0
+GB_827;Ibstock Brick Ltd Nostell Factory;Nostell Brickworks;8461;172.4352837;0.423481712;1
+GB_849;Mondi Packaging Holcombe Ltd.;Ramsbottom;4315;174.0656254;0.31157695;0
+GB_211518;Rockingham;Avonmouth;40513;178.9373487;0.385188061;0
+GB_210269;Imperium Centre Ltd;Basildon;14942;179.9134102;0.343521394;0
+GB_658;University of Glasgow;UOG UTILITIES SUPPLY COMPANY LTD;43440;181.6072227;0.375664251;1
+GB_413;Basell Polyolefins UK Limited – Carrington;Carrington;8692;182.1858003;0.306787678;2
+GB_1082;Allen & Overy LLP;London;11093;183.2699432;0.42407695;0
+GB_1016;CPUK Bromborough;Bromborough;8052;184.964031;0.492700687;2
+GB_649;The Girvan Distillery;Girvan;12159;191.331435;0.493918219;2
+GB_814;Ibstock Brick Ltd Birtley Factory;Birtley Brickworks;8450;193.0202163;0.393028369;1
+GB_210455;Asher Lane 2;Ripley;40498;197.6294819;0.321299172;0
+GB_857;Ardagh Glass - Worksop;Worksop;8542;199.1765231;0.376061077;2
+GB_207665;Secanim Widnes;Widnes;9104;201.2731198;0.355029331;2
+GB_819;Sarval Limited;Stoke Bardolph;8328;202.8774829;0.438362664;0
+GB_826;Ibstock Brick Ltd Lodge Lane Factory;Lodge Lane Brickworks;8460;203.3549079;0.388759489;1
+GB_897;INEOS Nitriles (UK) Ltd - Seal Sands;Seal Sands;1386;204.0987888;0.403799172;2
+GB_1267;BBC North MediaCityUK;Salford;13062;204.1690348;0.3748706;0
+GB_210107;CHP WT;West Thurrock;9241;205.9838015;0.358692334;2
+GB_804;Jacobs Douwe Egberts - UK Coffee;Banbury;1521;205.9950728;0.362877655;0
+GB_1053;Fine Organics Seal Sands Facility;Seal Sands Terminal South;8962;206.0538011;0.443142606;0
+GB_748;Viking Power Limited;Seal Sands Terminal South;8962;206.0538011;0.31407695;0
+GB_758;Greenergy Biodiesel Processing Plant;Seal Sands Terminal South;8962;206.0538011;0.368008574;0
+GB_1024;PolymerLatex Limited;Bromsgrove;8806;208.0448964;0.318521394;0
+GB_177;Croda Europe - Hull;Equus UK Topco Limited;43248;210.9186817;0.346031792;0
+GB_624;Foresterhill Health Campus;Aberdeen;9039;214.7674529;0.346940197;0
+GB_210669;Pelagia Grimsby;Grimsby;40508;215.6880399;0.349473775;0
+GB_210394;WSDS;Whitehall;40274;217.9621311;0.33981769;0
+GB_808;McCain Steam Boilers - Scarborough;Scarborough;8688;218.3544151;0.318458263;2
+GB_950;Arjowiggins Limited;Dartford Paper Mill;8028;219.0062288;0.375326285;0
+GB_582;Pritchitts;Newtownards;8996;219.6226973;0.343268869;0
+GB_211618;Arla Foods Stourton Dairy;Joshua Tetley Brewery;8779;219.6805064;0.3923706;0
+GB_585;Craigavon Hospital Group Energy Centre;Portadown;8988;223.3823254;0.356630556;0
+GB_577;Gallaher Ltd;Ballymena;8990;225.6900583;0.437039913;0
+GB_334;Charnwood;Loughborough;8564;227.0616792;0.346762135;0
+GB_665;BASF Performance Products Plc;Paisley;3293;227.9660802;0.339037267;0
+GB_1029;Northwood Tissue (Disley) Limited;Disley Mill;8630;229.5988483;0.37235319;1
+GB_373;Invista Textiles (UK) Ltd - Gloucester;Gloucester;8629;229.6354825;0.327163369;2
+GB_876;Muller UK & Ireland Group LLP Severnside;Severnside Dairy;9291;235.8712616;0.364751553;1
+GB_184;Muntons plc;Flamborough Maltings;8221;238.4172458;0.320505521;0
+GB_1075;Common Lane Chemical Works;Knottingley;8588;240.5991917;0.330390081;0
+GB_613;Falkirk & District Royal Infirmary;Larbert;13073;244.7521594;0.355161606;0
+GB_209783;Garnham Close;Somercotes;14971;245.6357834;0.401000027;0
+GB_530;North Bristol NHS Trust - Southmead Hospital;Southmead Hospital;8874;249.852775;0.3746671;1
+GB_210484;Virtus LONDON 5 Limited;West Drayton;40275;250.9589231;0.383203934;0
+GB_907;Versalis UK Limited;Grangemouth;13414;252.6368321;0.304253717;0
+GB_206095;CELSA Manufacturing (UK) Ltd – Sections Mill;Tremorfa;6523;253.9734162;0.351602202;0
+GB_743;CELSA Manufacturing (UK) Ltd - New Melt Shop;Tremorfa;6523;253.9734162;0.351602202;0
+GB_320;Dennis Ruabon Tiles Ltd;Hafod Tileries;8520;257.2510044;0.451363917;0
+GB_409;UMIST Main Campus;Manchester;8942;258.4703807;0.34531878;2
+GB_432;The University of Manchester;Manchester;8942;258.4703807;0.378442029;2
+GB_893;Carlsberg UK LTD;Leeds;8263;259.3663801;0.383336209;0
+GB_408;GLAXOSMITHKLINE PLC;Ware;8681;260.0409673;0.332410283;0
+GB_449;EPR Thetford Limited;Thetford;8758;262.4469289;0.484493616;2
+GB_212;Combustion process - Nestle Fawdon;Nestle Fawdon;40723;264.1454592;0.340529941;1
+GB_350;Browns Lane Site;Allesley;13055;265.1997911;0.387587051;0
+GB_204984;Special Profiles;Skinningrove;14421;265.6152284;0.383799172;0
+GB_348;Activecraft Limited;Bury;8590;270.254615;0.112965839;0
+GB_569;The Royal Group Of Hospitals;Belfast;8997;276.1311674;0.336180124;0
+GB_279;Muntons plc - Cedar Maltings;Cedar Maltings;8435;276.6108393;0.469026445;1
+GB_749;Lamb Weston/Meijer UK Ltd;Wisbech;8139;279.665327;0.328574304;0
+GB_769;SCA Packaging EP Boilerhouse;Hooton Park Sustainable Energy Facility;43140;280.6350629;0.432632283;0
+GB_864;Kellogg Company - Wrexham;Wrexham;8222;281.1359167;0.31455314;2
+GB_209925;Essity UK Limited - Tawd Mill;Skelmersdale;4362;282.7710778;0.369910283;0
+GB_601;Norbord Cowie;Cowie;9017;283.3976773;0.325786351;2
+GB_436;The University of Birmingham;Edgbaston;8733;283.4270381;0.318653669;0
+GB_206199;Shell Green;Mersey Valley Sludge Processing Centre;13717;285.5400395;0.390655011;0
+GB_1139;Refresco Beverages UK Limited;Bridgwater;11741;286.5592465;0.320836209;0
+GB_418;GlaxoSmithKline, Barnard Castle;Barnard Castle;8699;286.8654504;0.370902346;2
+GB_1107;Barclays Capital - Northolt;Northolt Data Centre;11084;287.3559694;0.397132505;2
+GB_1048;Tronox Pigment - CHP Plant;Grimsby;2254;288.860894;0.378838854;0
+GB_1026;Parkandillick china clay calcining plant;St Dennis;8569;288.9308112;0.330068235;0
+GB_198;Power House Complex;RAF Fylingdales;8256;291.3025332;0.351427377;0
+GB_202262;Johnson Tiles;Tunstall;13759;292.7435372;0.41424789;0
+GB_609;GE Plastics ABS Ltd;Grangemouth Olefins;9023;297.3405522;0.359289982;0
+GB_205755;Hanson Quarry Products Europe - Whatley;Whatley;13685;298.7099546;0.351221952;2
+GB_855;Ardagh Glass - Headlands;Knottingley;8541;300.446311;0.347814323;0
+GB_1061;BAE Systems - Barrow;Barrow-In-Furness;8603;301.8250959;0.365455723;2
+GB_199;James Cook University Hospital;The James Cook University Hospital;8257;304.3570779;0.532246884;1
+GB_280;Electric Glass Fiber UK Ltd;Wigan;8436;305.7713614;0.404632505;0
+GB_211918;Hele Manor;London;14662;306.3655491;0.357410283;0
+GB_233;Croda Europe - Ditton;Ditton;13265;308.3489654;0.269398587;2
+GB_978;Knauf Sittingbourne;Ridham Biomass Power Plant;14588;315.7945228;0.352940776;0
+GB_366;Energy Centres A and B;Gloucestershire Royal Hospital;8617;326.2170596;0.386089937;0
+GB_520;Batchelors Factory;Worksop;8862;327.9470199;0.320108696;0
+GB_670;University of Strathclyde;Glasgow;9086;330.7579448;0.340584886;0
+GB_374;Airbus UK Limited - Broughton;Broughton;8632;335.4009176;0.503012135;2
+GB_1065;Flint Site;Delyn Mill;8026;337.3906341;0.379632505;0
+GB_1072;Flint Site - Flint;Delyn Mill;8026;337.3906341;0.405390081;0
+GB_1073;Flint Site - Coleshill;Delyn Mill;8026;337.3906341;0.404632505;0
+GB_206176;Eurovia Roadstone;Dagenham;8740;342.5455733;0.315988714;0
+GB_730;Gas Turbines;Par Harbour;8567;347.9148828;0.358167859;0
+GB_661;HM Naval Base Clyde;Coulport;9077;350.1882002;0.309237768;0
+GB_783;Langeled Receiving Facilities;Easington;8914;350.8476262;0.35578193;0
+GB_118;SPECIALTY MINERALS LIFFORD;Lifford;8099;351.8661837;0.31473629;2
+GB_401;Hull University Teaching Hospitals NHS Trust;Castle Hill Hospital;8670;352.7042568;0.439760097;2
+GB_960;II-VI Compound Semiconductors Limited;Newton Aycliffe;8827;353.4039071;0.311337486;0
+GB_633;University of Aberdeen;Aberdeen;9049;355.1289957;0.309935535;0
+GB_207922;Virtus Hayes Limited;Hayes;14666;357.7014769;0.326854727;2
+GB_504;Visteon Swansea - Boiler House;Basildon;8950;360.8013251;0.34689441;0
+GB_1059;PVC 9;Hillhouse International;43113;361.3233624;0.320212215;0
+GB_319;Product Development Site;Gaydon;8518;361.4679073;0.269398587;0
+GB_468;The Open University - Walton Hall;Milton Keynes;8780;363.0270306;0.378267741;0
+GB_247;Kronospan Ltd;Chirk;8364;364.5484529;0.331484357;0
+GB_958;Coors Tower Brewery;Tower Brewery;8112;368.8448896;0.483411183;1
+GB_491;SI Group - UK, Ltd - Four Ashes;Four Ashes;8815;369.5833352;0.376708529;2
+GB_1248;Sherwood Forest Hospitals NHS Foundation Trust;Kings Mill Hospital;11737;373.5686085;0.345040591;0
+GB_761;Case New Holland Total Site;Basildon;8950;374.7964725;0.394531495;0
+GB_903;Cooper Tire & Rubber Company Europe Limited;Melksham;8563;378.4402012;0.332793425;0
+GB_990;Preston Board and Packaging;Romiley;8707;387.783533;0.31402404;0
+GB_437;Jaguar Cars Ltd - Whitley Engineering Centre;Coventry;8734;394.0200822;0.347614961;0
+GB_925;Saint-Gobain Isover UK;Runcorn;8934;394.3157993;0.377376866;0
+GB_461;University of Nottingham;Nottingham;8771;398.9886661;0.364354727;0
+GB_256;Syngenta - Jealott's Hill;Huddersfield;2199;400.0839522;0.322506901;0
+GB_1067;The Cheese Company (previously Glanbia Foods);Lockerbie;7221;400.6337463;0.391537267;0
+GB_228;Roxel (UK Rocket Motors) Ltd;Summerfield;8312;411.0032391;0.291992952;0
+GB_947;Arjowiggins Ivybridge Limited;Stowford Mill;8937;412.5044044;0.300084276;0
+GB_340;UW Construction Ltd/University of Warwick;Coventry;11968;412.5060097;0.397473561;0
+GB_151;Syngenta Limited;Huddersfield;8149;421.293897;0.314354727;0
+GB_655;Raeburn Brick Limited;Glasgow;9071;435.3854422;0.316262542;0
+GB_306;EXCEL District Energy Company Limited;Royal Victoria Dock;13738;438.4415261;0.363383549;0
+GB_539;Royal Blackburn Teaching Hospital;Queens Park Hospital;8887;440.6845836;0.415648919;0
+GB_563;ULEC Ashton Street Energy Centre;Liverpool;8929;444.8905585;0.332873246;0
+GB_813;Ibstock Brick Ltd - Atlas Factory;Atlas Brickworks;8449;447.3936087;0.422525248;1
+GB_1025;Herreschoff Kiln no.3;Lee Moor Site;8566;451.9372232;0.373481712;0
+GB_311;Growth Power Burstwick CHP;Burstwick Energy Centre;11743;457.1788143;0.414415114;1
+GB_396;SLI Glass - Harworth;Harworth;8973;459.1887001;0.314354727;2
+GB_573;Altnagelvin H&SS Trust;Londonderry;8985;463.5828246;0.337441363;0
+GB_764;Royal Botanic Gardens, Kew;Richmond;8957;465.3745886;0.38907695;0
+GB_683;Brunel University;Uxbridge;8870;476.1919427;0.349485446;0
+GB_298;West End Nurseries;Angmering;11081;476.8607112;0.307410283;0
+GB_852;PLASMOR LTD GREAT HECK;Knottingley;8730;483.0175769;0.335019711;0
+GB_355;BAE SYSTEMS - CHADDERTON;Chadderton;8601;484.9078946;0.352359778;2
+GB_241;Unilever UK Ltd;Crawley;14189;489.8117747;0.368918219;0
+GB_777;Boiler House;Queen Elizabeth Hospital;8968;493.7032663;0.404632505;0
+GB_679;BAE Land Systems - Radway Green;Radway Green;8443;493.9675913;0.391541828;2
+GB_208242;Glasshouse Generation (Macketts);Wight Salads, Newport;8668;497.3656074;0.421299172;0
+GB_779;Prinovis Liverpool Ltd.;Speke;9590;497.3664946;0.351854727;0

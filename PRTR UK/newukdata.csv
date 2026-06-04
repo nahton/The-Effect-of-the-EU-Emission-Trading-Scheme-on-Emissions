@@ -1,0 +1,954 @@
+﻿Year;PollutantID;Pollutant_Name;PlantID;Site;Easting;Northing;Operator;SectorID;Sector; Emission ;Unit;Country
+1998;2;Carbon Dioxide as Carbon;156;Seal Sands;452150;524260;Amoco (UK) Exploration Co Ltd;3;Oil & gas exploration and production;14856.21;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;156;Seal Sands;452150;524260;Amoco (UK) Exploration Co Ltd;3;Oil & gas exploration and production;22506.81818;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;156;Seal Sands;452150;524260;Amoco (UK) Exploration Co Ltd;3;Oil & gas exploration and production;22203.68727;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;156;Seal Sands;452150;524260;Amoco (UK) Exploration Co Ltd;3;Oil & gas exploration and production;20527.81636;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;156;Seal Sands;452150;524260;Amoco (UK) Exploration Co Ltd;3;Oil & gas exploration and production;21503.69455;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;156;Seal Sands;452150;524260;Amoco (UK) Exploration Co Ltd;3;Oil & gas exploration and production;21681.81818;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;156;Seal Sands;452150;524260;Amoco (UK) Exploration Co Ltd;3;Oil & gas exploration and production;18785.70316;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;345;Holywell;312200;383900;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;18838.63636;Tonnes;Wales
+1999;2;Carbon Dioxide as Carbon;345;Holywell;312200;383900;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;18575.72727;Tonnes;Wales
+2000;2;Carbon Dioxide as Carbon;345;Holywell;312200;383900;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;18252.54545;Tonnes;Wales
+2001;2;Carbon Dioxide as Carbon;345;Holywell;312200;383900;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;20833.90909;Tonnes;Wales
+2002;2;Carbon Dioxide as Carbon;345;Holywell;312200;383900;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;20421.54545;Tonnes;Wales
+2003;2;Carbon Dioxide as Carbon;345;Holywell;312200;383900;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;22350.81818;Tonnes;Wales
+2004;2;Carbon Dioxide as Carbon;345;Holywell;312200;383900;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;19566.8923;Tonnes;Wales
+1998;2;Carbon Dioxide as Carbon;396;Bacton;633190;334440;BP Amoco Exploration Ltd;3;Oil & gas exploration and production;18464.50909;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;396;Bacton;633190;334440;BP Amoco Exploration Ltd;3;Oil & gas exploration and production;12275.72727;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;396;Bacton;633190;334440;BP Amoco Exploration Ltd;3;Oil & gas exploration and production;14147.01744;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;396;Bacton;633190;334440;BP Amoco Exploration Ltd;3;Oil & gas exploration and production;14554.17495;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;396;Bacton;633190;334440;BP Amoco Exploration Ltd;3;Oil & gas exploration and production;15202.55969;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;396;Bacton;633190;334440;BP Amoco Exploration Ltd;3;Oil & gas exploration and production;7495.511727;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;396;Bacton;633190;334440;BP Amoco Exploration Ltd;3;Oil & gas exploration and production;7733.439355;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;419;Dimlington;539800;420300;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;39873.78477;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;419;Dimlington;539800;420300;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;26617.21261;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;419;Dimlington;539800;420300;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;24992.32544;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;419;Dimlington;539800;420300;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;24583.31342;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;419;Dimlington;539800;420300;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;20762.07633;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;419;Dimlington;539800;420300;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;21102.99982;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;419;Dimlington;539800;420300;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;21280.80052;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;422;Wareham;397500;85130;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;57968.18182;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;422;Wareham;397500;85130;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;25875.59523;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;422;Wareham;397500;85130;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;23338.09091;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;422;Wareham;397500;85130;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;21336.46364;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;422;Wareham;397500;85130;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;25038.24886;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;422;Wareham;397500;85130;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;25550.68705;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;422;Wareham;397500;85130;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;22392.72741;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;707;Mablethorpe;548830;387110;Conoco Ltd;3;Oil & gas exploration and production;35460.54545;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;707;Mablethorpe;548830;387110;Conoco Ltd;3;Oil & gas exploration and production;30000;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;707;Mablethorpe;548830;387110;Conoco Ltd;3;Oil & gas exploration and production;81830.48065;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;707;Mablethorpe;548830;387110;Conoco Ltd;3;Oil & gas exploration and production;65467.63636;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;707;Mablethorpe;548830;387110;Conoco Ltd;3;Oil & gas exploration and production;38466.84545;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;707;Mablethorpe;548830;387110;Conoco Ltd;3;Oil & gas exploration and production;27778.05818;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;707;Mablethorpe;548830;387110;Conoco Ltd;3;Oil & gas exploration and production;49094.60244;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;927;Easington;539770;420260;Dynegy Storage Ltd;3;Oil & gas exploration and production;28599.91227;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;927;Easington;539770;420260;Dynegy Storage Ltd;3;Oil & gas exploration and production;18548.7297;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;927;Easington;539770;420260;Dynegy Storage Ltd;3;Oil & gas exploration and production;31285.73716;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;927;Easington;539770;420260;Dynegy Storage Ltd;3;Oil & gas exploration and production;32879.27723;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;927;Easington;539770;420260;Dynegy Storage Ltd;3;Oil & gas exploration and production;26446.33073;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;927;Easington;539770;420260;Dynegy Storage Ltd;3;Oil & gas exploration and production;25652.64136;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;927;Easington;539770;420260;Dynegy Storage Ltd;3;Oil & gas exploration and production;29510.64005;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;985;Seal Sands;451760;524080;Enron Power Operations Ltd;19;Processing & distribution of natural gas;16963.63636;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;985;Seal Sands;451760;524080;Enron Power Operations Ltd;19;Processing & distribution of natural gas;17836.36364;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;985;Seal Sands;451760;524080;Enron Power Operations Ltd;19;Processing & distribution of natural gas;15818.18182;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;985;Seal Sands;451760;524080;Enron Power Operations Ltd;19;Processing & distribution of natural gas;13990.90909;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;985;Seal Sands;451760;524080;Enron Power Operations Ltd;19;Processing & distribution of natural gas;15612;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;985;Seal Sands;451760;524080;Enron Power Operations Ltd;19;Processing & distribution of natural gas;17101.63636;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;985;Seal Sands;451760;524080;Enron Power Operations Ltd;19;Processing & distribution of natural gas;16691.45455;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;1314;Barrow Terminals Processes;322670;468040;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;68181.81818;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;1314;Barrow Terminals Processes;322670;468040;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;63004.68362;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;1314;Barrow Terminals Processes;322670;468040;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;210545.4545;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;1314;Barrow Terminals Processes;322670;468040;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;225818.1818;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;1314;Barrow Terminals Processes;322670;468040;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;199090.9091;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;1314;Barrow Terminals Processes;322670;468040;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;189027.2727;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;1314;Barrow Terminals Processes;322670;468040;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;199172.7273;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;1822;Bacton;632950;334450;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;49781.56111;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;1822;Bacton;632950;334450;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;88727.22553;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;1822;Bacton;632950;334450;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;114948.7915;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;1822;Bacton;632950;334450;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;121438.5483;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;1822;Bacton;632950;334450;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;108520.732;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;1822;Bacton;632950;334450;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;100491.3025;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;1822;Bacton;632950;334450;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;81225.10477;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;1825;Seal Sands;451760;524080;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;113059.2545;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;1825;Seal Sands;451760;524080;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;134051.2403;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;1825;Seal Sands;451760;524080;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;120961.3636;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;1825;Seal Sands;451760;524080;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;160977.801;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;1825;Seal Sands;451760;524080;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;149574.6905;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;1825;Seal Sands;451760;524080;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;158202.8089;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;1825;Seal Sands;451760;524080;Phillips Petroleum Co (UK) Ltd;3;Oil & gas exploration and production;147926.2005;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;2159;Bacton;633190;334540;Shell UK Ltd;3;Oil & gas exploration and production;4660.914633;Tonnes;England
+1999;2;Carbon Dioxide as Carbon;2159;Bacton;633190;334540;Shell UK Ltd;3;Oil & gas exploration and production;4636.506273;Tonnes;England
+2000;2;Carbon Dioxide as Carbon;2159;Bacton;633190;334540;Shell UK Ltd;3;Oil & gas exploration and production;4636.363636;Tonnes;England
+2001;2;Carbon Dioxide as Carbon;2159;Bacton;633190;334540;Shell UK Ltd;3;Oil & gas exploration and production;4338.878182;Tonnes;England
+2002;2;Carbon Dioxide as Carbon;2159;Bacton;633190;334540;Shell UK Ltd;3;Oil & gas exploration and production;8455.434545;Tonnes;England
+2003;2;Carbon Dioxide as Carbon;2159;Bacton;633190;334540;Shell UK Ltd;3;Oil & gas exploration and production;7241.634545;Tonnes;England
+2004;2;Carbon Dioxide as Carbon;2159;Bacton;633190;334540;Shell UK Ltd;3;Oil & gas exploration and production;10282.64182;Tonnes;England
+1998;2;Carbon Dioxide as Carbon;3650;Sullom Voe;441040;1173240;BP Exploration Ltd;3;Oil & gas exploration and production;138692.8909;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;3650;Sullom Voe;441040;1173240;BP Exploration Ltd;3;Oil & gas exploration and production;144545.4545;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;3650;Sullom Voe;441040;1173240;BP Exploration Ltd;3;Oil & gas exploration and production;123697.9091;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;3650;Sullom Voe;441040;1173240;BP Exploration Ltd;3;Oil & gas exploration and production;190836.2727;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;3650;Sullom Voe;441040;1173240;BP Exploration Ltd;3;Oil & gas exploration and production;112511.9282;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;3650;Sullom Voe;441040;1173240;BP Exploration Ltd;3;Oil & gas exploration and production;82586.637;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;3650;Sullom Voe;441040;1173240;BP Exploration Ltd;3;Oil & gas exploration and production;81267;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;3663;Flotta;336040;993240;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;98113.41818;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;3663;Flotta;336040;993240;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;91648.10253;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;3663;Flotta;336040;993240;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;88921.69091;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;3663;Flotta;336040;993240;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;83244.57572;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;3663;Flotta;336040;993240;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;77246.95711;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;3663;Flotta;336040;993240;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;68277.28091;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;3663;Flotta;336040;993240;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;57577.87805;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;3665;Nigg Bay;279200;870500;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;3579.684545;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;3665;Nigg Bay;279200;870500;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;2778.843193;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;3665;Nigg Bay;279200;870500;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;2888.735259;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;3665;Nigg Bay;279200;870500;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;3216.656196;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;3665;Nigg Bay;279200;870500;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;6083.618182;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;3665;Nigg Bay;279200;870500;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;4674.364636;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;3665;Nigg Bay;279200;870500;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;3168.347089;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;6978;Kinneil;295900;680500;BP Exploration Co Ltd;3;Oil & gas exploration and production;125489.4273;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;6978;Kinneil;295900;680500;BP Exploration Co Ltd;3;Oil & gas exploration and production;114043.8643;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;6978;Kinneil;295900;680500;BP Exploration Co Ltd;3;Oil & gas exploration and production;132474.5455;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;6978;Kinneil;295900;680500;BP Exploration Co Ltd;3;Oil & gas exploration and production;133417.0909;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;6978;Kinneil;295900;680500;BP Exploration Co Ltd;3;Oil & gas exploration and production;142007.1818;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;6978;Kinneil;295900;680500;BP Exploration Co Ltd;3;Oil & gas exploration and production;124886.7273;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;6978;Kinneil;295900;680500;BP Exploration Co Ltd;3;Oil & gas exploration and production;125012.2909;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;6979;Cowdenbeath;318632;689985;Shell UK Exploration & Production;19;Processing & distribution of natural gas;55311.67936;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;6979;Cowdenbeath;318632;689985;Shell UK Exploration & Production;19;Processing & distribution of natural gas;55027.62545;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;6979;Cowdenbeath;318632;689985;Shell UK Exploration & Production;19;Processing & distribution of natural gas;57103.19455;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;6979;Cowdenbeath;318632;689985;Shell UK Exploration & Production;19;Processing & distribution of natural gas;55457.44909;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;6979;Cowdenbeath;318632;689985;Shell UK Exploration & Production;19;Processing & distribution of natural gas;53361.89727;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;6979;Cowdenbeath;318632;689985;Shell UK Exploration & Production;19;Processing & distribution of natural gas;48444.61909;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;6979;Cowdenbeath;318632;689985;Shell UK Exploration & Production;19;Processing & distribution of natural gas;45983.55818;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;6980;St Fergus;409600;854400;Shell UK Exploration & Production;3;Oil & gas exploration and production;99290.93645;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;6980;St Fergus;409600;854400;Shell UK Exploration & Production;3;Oil & gas exploration and production;93081.54556;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;6980;St Fergus;409600;854400;Shell UK Exploration & Production;3;Oil & gas exploration and production;96993.69;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;6980;St Fergus;409600;854400;Shell UK Exploration & Production;3;Oil & gas exploration and production;96018.10636;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;6980;St Fergus;409600;854400;Shell UK Exploration & Production;3;Oil & gas exploration and production;98516.76;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;6980;St Fergus;409600;854400;Shell UK Exploration & Production;3;Oil & gas exploration and production;93452.85;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;6980;St Fergus;409600;854400;Shell UK Exploration & Production;3;Oil & gas exploration and production;94936.17545;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;6981;SAGE;409614;853293;ExonMobil;3;Oil & gas exploration and production;163618.3091;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;6981;SAGE;409614;853293;ExonMobil;3;Oil & gas exploration and production;169850.7273;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;6981;SAGE;409614;853293;ExonMobil;3;Oil & gas exploration and production;214282.9091;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;6981;SAGE;409614;853293;ExonMobil;3;Oil & gas exploration and production;222285.4506;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;6981;SAGE;409614;853293;ExonMobil;3;Oil & gas exploration and production;262380.9148;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;6981;SAGE;409614;853293;ExonMobil;3;Oil & gas exploration and production;248945.4216;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;6981;SAGE;409614;853293;ExonMobil;3;Oil & gas exploration and production;193707.9137;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;7457;St Fergus;409800;853800;Total E & P UK Plc;3;Oil & gas exploration and production;30231.00545;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;7457;St Fergus;409800;853800;Total E & P UK Plc;3;Oil & gas exploration and production;29619.01806;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;7457;St Fergus;409800;853800;Total E & P UK Plc;3;Oil & gas exploration and production;29743.77477;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;7457;St Fergus;409800;853800;Total E & P UK Plc;3;Oil & gas exploration and production;25772.12477;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;7457;St Fergus;409800;853800;Total E & P UK Plc;3;Oil & gas exploration and production;25453.6306;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;7457;St Fergus;409800;853800;Total E & P UK Plc;3;Oil & gas exploration and production;27903.17018;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;7457;St Fergus;409800;853800;Total E & P UK Plc;3;Oil & gas exploration and production;26898.58417;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;7540;Cruden Bay;406810;832588;BP Exploration Co Ltd;3;Oil & gas exploration and production;7857;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;7540;Cruden Bay;406810;832588;BP Exploration Co Ltd;3;Oil & gas exploration and production;8963.454545;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;7540;Cruden Bay;406810;832588;BP Exploration Co Ltd;3;Oil & gas exploration and production;6127.636364;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;7540;Cruden Bay;406810;832588;BP Exploration Co Ltd;3;Oil & gas exploration and production;5438.454545;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;7540;Cruden Bay;406810;832588;BP Exploration Co Ltd;3;Oil & gas exploration and production;7119.272727;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;7540;Cruden Bay;406810;832588;BP Exploration Co Ltd;3;Oil & gas exploration and production;5426.454545;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;7540;Cruden Bay;406810;832588;BP Exploration Co Ltd;3;Oil & gas exploration and production;4650.019091;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;9030;Brechin;353900;758980;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;9426.272727;Tonnes;Scotland
+1999;2;Carbon Dioxide as Carbon;9030;Brechin;353900;758980;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;10754.45455;Tonnes;Scotland
+2000;2;Carbon Dioxide as Carbon;9030;Brechin;353900;758980;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;7815.545455;Tonnes;Scotland
+2001;2;Carbon Dioxide as Carbon;9030;Brechin;353900;758980;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;6802.636364;Tonnes;Scotland
+2002;2;Carbon Dioxide as Carbon;9030;Brechin;353900;758980;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;8163.272727;Tonnes;Scotland
+2003;2;Carbon Dioxide as Carbon;9030;Brechin;353900;758980;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;6512.181818;Tonnes;Scotland
+2004;2;Carbon Dioxide as Carbon;9030;Brechin;353900;758980;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;5452.178182;Tonnes;Scotland
+1998;2;Carbon Dioxide as Carbon;11379;AH001;523567;923356;Amerada Hess Ltd;3;Oil & gas exploration and production;28889.69409;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11379;AH001;523567;923356;Amerada Hess Ltd;3;Oil & gas exploration and production;37454.7704;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11379;AH001;523567;923356;Amerada Hess Ltd;3;Oil & gas exploration and production;43414.2078;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11379;AH001;523567;923356;Amerada Hess Ltd;3;Oil & gas exploration and production;49740.6564;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11379;AH001;523567;923356;Amerada Hess Ltd;3;Oil & gas exploration and production;49755.82003;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11379;AH001;523567;923356;Amerada Hess Ltd;3;Oil & gas exploration and production;42561.87472;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11379;AH001;523567;923356;Amerada Hess Ltd;3;Oil & gas exploration and production;28642.24184;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11382;Alba Northern;581669;913041;Chevron North Sea Ltd;3;Oil & gas exploration and production;139143.0208;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11382;Alba Northern;581669;913041;Chevron North Sea Ltd;3;Oil & gas exploration and production;101192.4247;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11382;Alba Northern;581669;913041;Chevron North Sea Ltd;3;Oil & gas exploration and production;79999.63374;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11382;Alba Northern;581669;913041;Chevron North Sea Ltd;3;Oil & gas exploration and production;91210.50798;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11382;Alba Northern;581669;913041;Chevron North Sea Ltd;3;Oil & gas exploration and production;91003.42054;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11382;Alba Northern;581669;913041;Chevron North Sea Ltd;3;Oil & gas exploration and production;83350.11511;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11382;Alba Northern;581669;913041;Chevron North Sea Ltd;3;Oil & gas exploration and production;68895.77728;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11383;Alwyn North;601508;1219540;Total E&P UK plc;3;Oil & gas exploration and production;84400.26428;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11383;Alwyn North;601508;1219540;Total E&P UK plc;3;Oil & gas exploration and production;100910.4725;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11383;Alwyn North;601508;1219540;Total E&P UK plc;3;Oil & gas exploration and production;117064.5278;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11383;Alwyn North;601508;1219540;Total E&P UK plc;3;Oil & gas exploration and production;152885.0265;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11383;Alwyn North;601508;1219540;Total E&P UK plc;3;Oil & gas exploration and production;137856.2698;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11383;Alwyn North;601508;1219540;Total E&P UK plc;3;Oil & gas exploration and production;117225.0897;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11383;Alwyn North;601508;1219540;Total E&P UK plc;3;Oil & gas exploration and production;124189.106;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11384;Anasuria;570611;812414;Shell UK Exploration & Production;3;Oil & gas exploration and production;46572.12209;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11384;Anasuria;570611;812414;Shell UK Exploration & Production;3;Oil & gas exploration and production;40699.97305;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11384;Anasuria;570611;812414;Shell UK Exploration & Production;3;Oil & gas exploration and production;35476.44096;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11384;Anasuria;570611;812414;Shell UK Exploration & Production;3;Oil & gas exploration and production;37873.81906;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11384;Anasuria;570611;812414;Shell UK Exploration & Production;3;Oil & gas exploration and production;39870.16507;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11384;Anasuria;570611;812414;Shell UK Exploration & Production;3;Oil & gas exploration and production;35417.31834;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11384;Anasuria;570611;812414;Shell UK Exploration & Production;3;Oil & gas exploration and production;34052.56156;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11385;Andrew;601124;911605;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;51141.95281;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11385;Andrew;601124;911605;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;54516.59544;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11385;Andrew;601124;911605;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;49749.55399;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11385;Andrew;601124;911605;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;47023.26577;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11385;Andrew;601124;911605;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;56018.5814;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11385;Andrew;601124;911605;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;51057.40198;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11385;Andrew;601124;911605;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;42348.19701;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11389;Armada;628260;898770;BG Group plc;3;Oil & gas exploration and production;69916.84896;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11389;Armada;628260;898770;BG Group plc;3;Oil & gas exploration and production;70350.72788;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11389;Armada;628260;898770;BG Group plc;3;Oil & gas exploration and production;64871.74745;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11389;Armada;628260;898770;BG Group plc;3;Oil & gas exploration and production;64463.83832;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11389;Armada;628260;898770;BG Group plc;3;Oil & gas exploration and production;65796.73585;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11389;Armada;628260;898770;BG Group plc;3;Oil & gas exploration and production;61736.54854;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11389;Armada;628260;898770;BG Group plc;3;Oil & gas exploration and production;58435.29691;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11391;Auk Alpha;648564;731728;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;26003.80073;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11391;Auk Alpha;648564;731728;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;20754.83645;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11391;Auk Alpha;648564;731728;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;18294.77952;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11391;Auk Alpha;648564;731728;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;13390.14963;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11391;Auk Alpha;648564;731728;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;23395.20604;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11391;Auk Alpha;648564;731728;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;24532.50017;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11391;Auk Alpha;648564;731728;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;18774.2536;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11394;Balmoral;582214;930270;CNR International (UK) Ltd;3;Oil & gas exploration and production;29224.5936;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11394;Balmoral;582214;930270;CNR International (UK) Ltd;3;Oil & gas exploration and production;25416.17405;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11394;Balmoral;582214;930270;CNR International (UK) Ltd;3;Oil & gas exploration and production;22182.25973;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11394;Balmoral;582214;930270;CNR International (UK) Ltd;3;Oil & gas exploration and production;41568.7553;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11394;Balmoral;582214;930270;CNR International (UK) Ltd;3;Oil & gas exploration and production;37794.89388;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11394;Balmoral;582214;930270;CNR International (UK) Ltd;3;Oil & gas exploration and production;25573.99261;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11394;Balmoral;582214;930270;CNR International (UK) Ltd;3;Oil & gas exploration and production;18949.73268;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11395;Beatrice Alpha;338275;915629;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;18262.34443;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11395;Beatrice Alpha;338275;915629;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;5210.617154;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11395;Beatrice Alpha;338275;915629;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;3543.344019;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11395;Beatrice Alpha;338275;915629;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;6651.980651;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11395;Beatrice Alpha;338275;915629;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;9734.58742;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11395;Beatrice Alpha;338275;915629;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;5364.644867;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11395;Beatrice Alpha;338275;915629;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;4433.332685;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11396;Beryl Alpha;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;132054.4274;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11396;Beryl Alpha;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;148265.2343;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11396;Beryl Alpha;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;175012.1158;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11396;Beryl Alpha;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;152762.2542;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11396;Beryl Alpha;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;161650.4297;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11396;Beryl Alpha;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;155094.1512;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11396;Beryl Alpha;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;156121.0716;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11397;Beryl Bravo;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;121413.1276;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11397;Beryl Bravo;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;114775.1729;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11397;Beryl Bravo;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;97865.50544;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11397;Beryl Bravo;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;100443.5816;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11397;Beryl Bravo;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;98627.61756;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11397;Beryl Bravo;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;99173.62813;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11397;Beryl Bravo;599706;1079065;Mobil North Sea Ltd;3;Oil & gas exploration and production;99080.90858;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11398;Bleo Holm;437031;912129;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;29976.59522;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11398;Bleo Holm;437031;912129;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;47709.40492;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11398;Bleo Holm;437031;912129;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;38357.0267;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11398;Bleo Holm;437031;912129;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;70675.6331;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11398;Bleo Holm;437031;912129;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;68080.78206;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11398;Bleo Holm;437031;912129;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;54556.50941;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11399;Brae Alpha;593727;994331;Marathon Oil UK Ltd;3;Oil & gas exploration and production;131953.6849;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11399;Brae Alpha;593727;994331;Marathon Oil UK Ltd;3;Oil & gas exploration and production;106843.7288;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11399;Brae Alpha;593727;994331;Marathon Oil UK Ltd;3;Oil & gas exploration and production;98483.35474;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11399;Brae Alpha;593727;994331;Marathon Oil UK Ltd;3;Oil & gas exploration and production;95317.60419;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11399;Brae Alpha;593727;994331;Marathon Oil UK Ltd;3;Oil & gas exploration and production;82698.58187;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11399;Brae Alpha;593727;994331;Marathon Oil UK Ltd;3;Oil & gas exploration and production;79283.41086;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11399;Brae Alpha;593727;994331;Marathon Oil UK Ltd;3;Oil & gas exploration and production;70219.61817;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11400;Brae Bravo;586911;991210;Marathon Oil UK Ltd;3;Oil & gas exploration and production;204931.2949;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11400;Brae Bravo;586911;991210;Marathon Oil UK Ltd;3;Oil & gas exploration and production;171422.0032;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11400;Brae Bravo;586911;991210;Marathon Oil UK Ltd;3;Oil & gas exploration and production;156391.4585;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11400;Brae Bravo;586911;991210;Marathon Oil UK Ltd;3;Oil & gas exploration and production;125622.1331;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11400;Brae Bravo;586911;991210;Marathon Oil UK Ltd;3;Oil & gas exploration and production;132187.8237;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11400;Brae Bravo;586911;991210;Marathon Oil UK Ltd;3;Oil & gas exploration and production;113948.5527;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11400;Brae Bravo;586911;991210;Marathon Oil UK Ltd;3;Oil & gas exploration and production;119456.8418;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11401;Brent Bravo;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;87405.9759;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11401;Brent Bravo;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;76983.68918;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11401;Brent Bravo;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;76815.73505;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11401;Brent Bravo;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;76126.2185;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11401;Brent Bravo;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;72981.54614;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11401;Brent Bravo;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;73695.78421;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11401;Brent Bravo;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;80588.37114;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11402;Brent Charlie;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;76803.52431;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11402;Brent Charlie;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;79195.27124;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11402;Brent Charlie;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;86654.91762;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11402;Brent Charlie;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;83036.85031;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11402;Brent Charlie;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;74509.87388;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11402;Brent Charlie;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;68121.9966;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11402;Brent Charlie;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;87819.8832;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11403;Brent Delta;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;75912.98328;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11403;Brent Delta;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;71001.70666;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11403;Brent Delta;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;72249.30198;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11403;Brent Delta;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;77345.09794;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11403;Brent Delta;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;76984.11381;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11403;Brent Delta;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;75778.39735;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11403;Brent Delta;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;67408.29967;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11404;Britannia;567631;913885;Britannia Operator Ltd;3;Oil & gas exploration and production;39574.35938;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11404;Britannia;567631;913885;Britannia Operator Ltd;3;Oil & gas exploration and production;102424.9618;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11404;Britannia;567631;913885;Britannia Operator Ltd;3;Oil & gas exploration and production;100945.8871;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11404;Britannia;567631;913885;Britannia Operator Ltd;3;Oil & gas exploration and production;100662.4163;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11404;Britannia;567631;913885;Britannia Operator Ltd;3;Oil & gas exploration and production;98460.99798;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11404;Britannia;567631;913885;Britannia Operator Ltd;3;Oil & gas exploration and production;129325.8764;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11404;Britannia;567631;913885;Britannia Operator Ltd;3;Oil & gas exploration and production;97420.21946;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11405;Bruce;600127;1098697;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;98396.44077;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11405;Bruce;600127;1098697;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;88732.48762;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11405;Bruce;600127;1098697;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;91161.50008;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11405;Bruce;600127;1098697;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;129964.0728;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11405;Bruce;600127;1098697;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;139040.6686;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11405;Bruce;600127;1098697;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;112744.743;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11405;Bruce;600127;1098697;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;98679.75178;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11406;Buchan Alpha;518701;891838;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;18136.14444;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11406;Buchan Alpha;518701;891838;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;10876.16725;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11406;Buchan Alpha;518701;891838;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;13362.29751;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11406;Buchan Alpha;518701;891838;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;14574.67174;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11406;Buchan Alpha;518701;891838;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;29629.50029;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11406;Buchan Alpha;518701;891838;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;35124.84352;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11406;Buchan Alpha;518701;891838;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;36427.43375;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11408;Captain FPSO;414105;934448;Chevron North Sea Ltd;3;Oil & gas exploration and production;35431.64568;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11410;Claymore Alpha;501003;951255;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;89080.12135;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11410;Claymore Alpha;501003;951255;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;89850.6286;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11410;Claymore Alpha;501003;951255;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;92538.93121;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11410;Claymore Alpha;501003;951255;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;79874.8445;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11410;Claymore Alpha;501003;951255;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;74427.38416;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11410;Claymore Alpha;501003;951255;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;83015.09542;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11410;Claymore Alpha;501003;951255;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;85628.9199;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11411;Cleeton;578174;464713;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;28019.64205;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11411;Cleeton;578174;464713;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;28685.72642;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11411;Cleeton;578174;464713;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;27537.15241;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11411;Cleeton;578174;464713;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;27374.9644;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11411;Cleeton;578174;464713;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;27131.56512;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11411;Cleeton;578174;464713;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;24635.10203;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11411;Cleeton;578174;464713;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;25576.23764;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11412;Clyde Alpha;664594;738180;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;60155.31817;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11412;Clyde Alpha;664594;738180;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;64241.74798;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11412;Clyde Alpha;664594;738180;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;74115.53771;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11412;Clyde Alpha;664594;738180;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;60792.28637;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11412;Clyde Alpha;664594;738180;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;65053.01828;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11412;Clyde Alpha;664594;738180;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;59764.06014;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11412;Clyde Alpha;664594;738180;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;54188.10765;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11413;Cormorant Alpha;567283;1253581;Shell UK Exploration & Production;3;Oil & gas exploration and production;88498.81347;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11413;Cormorant Alpha;567283;1253581;Shell UK Exploration & Production;3;Oil & gas exploration and production;93100.92227;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11413;Cormorant Alpha;567283;1253581;Shell UK Exploration & Production;3;Oil & gas exploration and production;73658.38508;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11413;Cormorant Alpha;567283;1253581;Shell UK Exploration & Production;3;Oil & gas exploration and production;72003.34693;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11413;Cormorant Alpha;567283;1253581;Shell UK Exploration & Production;3;Oil & gas exploration and production;77701.27748;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11413;Cormorant Alpha;567283;1253581;Shell UK Exploration & Production;3;Oil & gas exploration and production;53959.83615;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11413;Cormorant Alpha;567283;1253581;Shell UK Exploration & Production;3;Oil & gas exploration and production;44945.98353;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11414;Cpt Wellhead Protector Platform (WPP & BLP);414105;934448;Chevron North Sea Ltd;3;Oil & gas exploration and production;66159.18584;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11414;Cpt Wellhead Protector Platform (WPP & BLP);414105;934448;Chevron North Sea Ltd;3;Oil & gas exploration and production;56444.1902;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11414;Cpt Wellhead Protector Platform (WPP & BLP);414105;934448;Chevron North Sea Ltd;3;Oil & gas exploration and production;49140.23906;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11414;Cpt Wellhead Protector Platform (WPP & BLP);414105;934448;Chevron North Sea Ltd;3;Oil & gas exploration and production;76178.72391;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11414;Cpt Wellhead Protector Platform (WPP & BLP);414105;934448;Chevron North Sea Ltd;3;Oil & gas exploration and production;65690.75786;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11414;Cpt Wellhead Protector Platform (WPP & BLP);414105;934448;Chevron North Sea Ltd;3;Oil & gas exploration and production;67628.28098;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11414;Cpt Wellhead Protector Platform (WPP & BLP);414105;934448;Chevron North Sea Ltd;3;Oil & gas exploration and production;34930.96288;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11417;Douglas;296321;404747;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;91369.08744;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11417;Douglas;296321;404747;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;58226.48143;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11417;Douglas;296321;404747;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;74163.05049;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11417;Douglas;296321;404747;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;85845.11756;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11417;Douglas;296321;404747;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;82499.26889;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11417;Douglas;296321;404747;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;80314.56004;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11417;Douglas;296321;404747;BHP Billiton Petroleum Ltd;3;Oil & gas exploration and production;105784.2849;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11418;Dunlin Alpha;592625;1271102;Shell UK Exploration & Production;3;Oil & gas exploration and production;68278.84122;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11418;Dunlin Alpha;592625;1271102;Shell UK Exploration & Production;3;Oil & gas exploration and production;67237.2077;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11418;Dunlin Alpha;592625;1271102;Shell UK Exploration & Production;3;Oil & gas exploration and production;50833.86513;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11418;Dunlin Alpha;592625;1271102;Shell UK Exploration & Production;3;Oil & gas exploration and production;55606.1286;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11418;Dunlin Alpha;592625;1271102;Shell UK Exploration & Production;3;Oil & gas exploration and production;47162.57601;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11418;Dunlin Alpha;592625;1271102;Shell UK Exploration & Production;3;Oil & gas exploration and production;44191.56691;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11418;Dunlin Alpha;592625;1271102;Shell UK Exploration & Production;3;Oil & gas exploration and production;27999.22798;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11419;ETAP Central Processing Facility;622972;828506;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;127032.6335;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11419;ETAP Central Processing Facility;622972;828506;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;121533.0665;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11419;ETAP Central Processing Facility;622972;828506;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;150208.6244;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11419;ETAP Central Processing Facility;622972;828506;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;146526.5182;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11419;ETAP Central Processing Facility;622972;828506;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;153326.1002;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11419;ETAP Central Processing Facility;622972;828506;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;138096.7082;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11419;ETAP Central Processing Facility;622972;828506;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;134290.9368;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11420;Brae East;603240;1004686;Marathon Oil UK Ltd;3;Oil & gas exploration and production;100339.1828;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11420;Brae East;603240;1004686;Marathon Oil UK Ltd;3;Oil & gas exploration and production;106021.1216;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11420;Brae East;603240;1004686;Marathon Oil UK Ltd;3;Oil & gas exploration and production;104588.3385;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11420;Brae East;603240;1004686;Marathon Oil UK Ltd;3;Oil & gas exploration and production;102062.5545;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11420;Brae East;603240;1004686;Marathon Oil UK Ltd;3;Oil & gas exploration and production;90602.40887;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11420;Brae East;603240;1004686;Marathon Oil UK Ltd;3;Oil & gas exploration and production;87924.58198;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11420;Brae East;603240;1004686;Marathon Oil UK Ltd;3;Oil & gas exploration and production;85609.29828;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11422;Eider Alpha;568849;1279361;Shell UK Exploration & Production;3;Oil & gas exploration and production;28023.06117;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11422;Eider Alpha;568849;1279361;Shell UK Exploration & Production;3;Oil & gas exploration and production;23313.88433;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11422;Eider Alpha;568849;1279361;Shell UK Exploration & Production;3;Oil & gas exploration and production;18611.1158;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11422;Eider Alpha;568849;1279361;Shell UK Exploration & Production;3;Oil & gas exploration and production;14026.40441;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11422;Eider Alpha;568849;1279361;Shell UK Exploration & Production;3;Oil & gas exploration and production;14975.60026;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11422;Eider Alpha;568849;1279361;Shell UK Exploration & Production;3;Oil & gas exploration and production;35659.01797;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11422;Eider Alpha;568849;1279361;Shell UK Exploration & Production;3;Oil & gas exploration and production;64665.33141;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11423;Elgin PUQ;633227;797779;Total E&P UK plc;3;Oil & gas exploration and production;3834.355534;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11423;Elgin PUQ;633227;797779;Total E&P UK plc;3;Oil & gas exploration and production;136491.1814;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11423;Elgin PUQ;633227;797779;Total E&P UK plc;3;Oil & gas exploration and production;186190.2047;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11423;Elgin PUQ;633227;797779;Total E&P UK plc;3;Oil & gas exploration and production;186717.7086;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11423;Elgin PUQ;633227;797779;Total E&P UK plc;3;Oil & gas exploration and production;183699.6397;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11424;Everest North;626623;885718;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;32272.91843;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11424;Everest North;626623;885718;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;26940.63658;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11424;Everest North;626623;885718;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;26251.67265;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11424;Everest North;626623;885718;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;26755.02611;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11424;Everest North;626623;885718;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;30639.57699;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11424;Everest North;626623;885718;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;26646.51156;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11424;Everest North;626623;885718;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;26754.21331;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11425;Foinaven FPSO;270753;1159708;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;126512.1927;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11425;Foinaven FPSO;270753;1159708;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;86784.77069;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11425;Foinaven FPSO;270753;1159708;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;89913.058;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11425;Foinaven FPSO;270753;1159708;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;77250.71738;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11425;Foinaven FPSO;270753;1159708;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;74768.60951;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11425;Foinaven FPSO;270753;1159708;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;77377.11504;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11425;Foinaven FPSO;270753;1159708;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;69046.06052;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11426;Forties Alpha;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;200091.796;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11426;Forties Alpha;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;174843.9166;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11426;Forties Alpha;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;37873.06534;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11426;Forties Alpha;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;45294.20112;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11426;Forties Alpha;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;34967.54347;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11426;Forties Alpha;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;36129.51202;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11426;Forties Alpha;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;52786.83227;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11427;Forties Bravo;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;41216.38767;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11427;Forties Bravo;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;27773.44656;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11427;Forties Bravo;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;30216.98764;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11427;Forties Bravo;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;25898.53664;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11427;Forties Bravo;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;28997.64322;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11428;Forties Charlie;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;77.34888148;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11428;Forties Charlie;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;41660.26256;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11428;Forties Charlie;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;47803.59956;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11428;Forties Charlie;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;48139.87423;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11428;Forties Charlie;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;43051.40085;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11428;Forties Charlie;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;40266.20885;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11429;Forties Delta;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;39228.33649;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11429;Forties Delta;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;39086.34092;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11429;Forties Delta;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;39156.30241;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11429;Forties Delta;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;37460.81205;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11429;Forties Delta;577220;875092;Apache North Sea Ltd;3;Oil & gas exploration and production;34682.50128;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11431;Fulmar Alpha;655727;740756;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;74669.67001;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11431;Fulmar Alpha;655727;740756;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;73860.8931;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11431;Fulmar Alpha;655727;740756;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;67523.1639;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11431;Fulmar Alpha;655727;740756;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;84708.59707;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11431;Fulmar Alpha;655727;740756;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;100312.2249;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11431;Fulmar Alpha;655727;740756;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;89396.8712;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11431;Fulmar Alpha;655727;740756;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;66895.64857;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11432;Gannet Alpha;581743;813582;Shell UK Exploration & Production;3;Oil & gas exploration and production;68915.7936;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11432;Gannet Alpha;581743;813582;Shell UK Exploration & Production;3;Oil & gas exploration and production;79660.56759;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11432;Gannet Alpha;581743;813582;Shell UK Exploration & Production;3;Oil & gas exploration and production;59138.78834;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11432;Gannet Alpha;581743;813582;Shell UK Exploration & Production;3;Oil & gas exploration and production;65472.52022;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11432;Gannet Alpha;581743;813582;Shell UK Exploration & Production;3;Oil & gas exploration and production;59622.2536;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11432;Gannet Alpha;581743;813582;Shell UK Exploration & Production;3;Oil & gas exploration and production;66848.75265;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11432;Gannet Alpha;581743;813582;Shell UK Exploration & Production;3;Oil & gas exploration and production;51550.76307;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11436;Gryphon Alpha;601322;1057469;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;72880.87148;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11436;Gryphon Alpha;601322;1057469;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;59585.38427;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11436;Gryphon Alpha;601322;1057469;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;81947.34018;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11436;Gryphon Alpha;601322;1057469;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;77642.63567;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11436;Gryphon Alpha;601322;1057469;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;29740.48297;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11436;Gryphon Alpha;601322;1057469;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;38294.15478;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11436;Gryphon Alpha;601322;1057469;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;39832.18732;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11437;Harding;600787;1049951;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;52395.4463;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11437;Harding;600787;1049951;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;54043.19268;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11437;Harding;600787;1049951;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;35182.43075;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11437;Harding;600787;1049951;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;41917.16602;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11437;Harding;600787;1049951;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;33741.67759;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11437;Harding;600787;1049951;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;39763.10615;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11437;Harding;600787;1049951;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;29769.47646;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11438;Heather Alpha;559290;1233704;Lundin Britain Ltd;3;Oil & gas exploration and production;29962.47329;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11438;Heather Alpha;559290;1233704;Lundin Britain Ltd;3;Oil & gas exploration and production;26884.97513;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11438;Heather Alpha;559290;1233704;Lundin Britain Ltd;3;Oil & gas exploration and production;33409.46092;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11438;Heather Alpha;559290;1233704;Lundin Britain Ltd;3;Oil & gas exploration and production;32818.22815;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11438;Heather Alpha;559290;1233704;Lundin Britain Ltd;3;Oil & gas exploration and production;30325.55781;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11438;Heather Alpha;559290;1233704;Lundin Britain Ltd;3;Oil & gas exploration and production;25625.6603;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11438;Heather Alpha;559290;1233704;Lundin Britain Ltd;3;Oil & gas exploration and production;35048.25727;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11439;Hewett 48/29A;645319;358766;Tullow Oil plc;3;Oil & gas exploration and production;10247.84421;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11439;Hewett 48/29A;645319;358766;Tullow Oil plc;3;Oil & gas exploration and production;7361.826893;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11439;Hewett 48/29A;645319;358766;Tullow Oil plc;3;Oil & gas exploration and production;27143.75358;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11439;Hewett 48/29A;645319;358766;Tullow Oil plc;3;Oil & gas exploration and production;28727.56644;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11439;Hewett 48/29A;645319;358766;Tullow Oil plc;3;Oil & gas exploration and production;22763.81435;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11439;Hewett 48/29A;645319;358766;Tullow Oil plc;3;Oil & gas exploration and production;18125.47927;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11439;Hewett 48/29A;645319;358766;Tullow Oil plc;3;Oil & gas exploration and production;18725.0079;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11443;Indefatigable 23A;700843;398028;Perenco UK Ltd;3;Oil & gas exploration and production;75839.30866;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11443;Indefatigable 23A;700843;398028;Perenco UK Ltd;3;Oil & gas exploration and production;69452.31937;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11443;Indefatigable 23A;700843;398028;Perenco UK Ltd;3;Oil & gas exploration and production;87136.65625;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11443;Indefatigable 23A;700843;398028;Perenco UK Ltd;3;Oil & gas exploration and production;86304.0625;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11443;Indefatigable 23A;700843;398028;Perenco UK Ltd;3;Oil & gas exploration and production;72227.62771;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11443;Indefatigable 23A;700843;398028;Perenco UK Ltd;3;Oil & gas exploration and production;57737.56132;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11443;Indefatigable 23A;700843;398028;Perenco UK Ltd;3;Oil & gas exploration and production;68118.63485;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11447;Janice Alpha;662876;730213;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;86361.96947;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11447;Janice Alpha;662876;730213;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;67206.60302;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11447;Janice Alpha;662876;730213;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;45553.88044;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11447;Janice Alpha;662876;730213;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;39121.51665;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11447;Janice Alpha;662876;730213;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;43159.13054;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11448;Judy;666531;764404;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;84908.65033;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11448;Judy;666531;764404;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;61972.077;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11448;Judy;666531;764404;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;53140.71716;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11448;Judy;666531;764404;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;48429.60373;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11448;Judy;666531;764404;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;62628.72148;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11448;Judy;666531;764404;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;79941.64978;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11448;Judy;666531;764404;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;77221.0213;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11449;Kittiwake Alpha;551043;845181;Venture Production Co (NS) Ltd;3;Oil & gas exploration and production;30684.64345;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11449;Kittiwake Alpha;551043;845181;Venture Production Co (NS) Ltd;3;Oil & gas exploration and production;31986.30174;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11449;Kittiwake Alpha;551043;845181;Venture Production Co (NS) Ltd;3;Oil & gas exploration and production;29300.80874;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11449;Kittiwake Alpha;551043;845181;Venture Production Co (NS) Ltd;3;Oil & gas exploration and production;29439.56972;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11449;Kittiwake Alpha;551043;845181;Venture Production Co (NS) Ltd;3;Oil & gas exploration and production;23163.65881;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11449;Kittiwake Alpha;551043;845181;Venture Production Co (NS) Ltd;3;Oil & gas exploration and production;21015.87134;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11449;Kittiwake Alpha;551043;845181;Venture Production Co (NS) Ltd;3;Oil & gas exploration and production;49510.62287;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11450;LOGGS;668043;391935;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;66339.20964;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11450;LOGGS;668043;391935;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;67215.20173;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11450;LOGGS;668043;391935;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;81611.29663;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11450;LOGGS;668043;391935;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;81269.34226;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11450;LOGGS;668043;391935;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;64661.72905;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11450;LOGGS;668043;391935;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;61381.4425;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11450;LOGGS;668043;391935;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;51783.76313;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11451;Leman 27A;676609;362507;Perenco UK Ltd;3;Oil & gas exploration and production;87085.76321;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11451;Leman 27A;676609;362507;Perenco UK Ltd;3;Oil & gas exploration and production;44798.69117;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11451;Leman 27A;676609;362507;Perenco UK Ltd;3;Oil & gas exploration and production;58895.24971;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11451;Leman 27A;676609;362507;Perenco UK Ltd;3;Oil & gas exploration and production;61578.86595;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11451;Leman 27A;676609;362507;Perenco UK Ltd;3;Oil & gas exploration and production;51088.67523;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11451;Leman 27A;676609;362507;Perenco UK Ltd;3;Oil & gas exploration and production;40328.93043;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11451;Leman 27A;676609;362507;Perenco UK Ltd;3;Oil & gas exploration and production;40529.81781;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11452;Leman Alpha;676609;362507;Shell UK Exploration & Production;3;Oil & gas exploration and production;82196.72383;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11452;Leman Alpha;676609;362507;Shell UK Exploration & Production;3;Oil & gas exploration and production;64281.57435;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11452;Leman Alpha;676609;362507;Shell UK Exploration & Production;3;Oil & gas exploration and production;77933.26991;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11452;Leman Alpha;676609;362507;Shell UK Exploration & Production;3;Oil & gas exploration and production;80153.0429;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11452;Leman Alpha;676609;362507;Shell UK Exploration & Production;3;Oil & gas exploration and production;58913.15396;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11452;Leman Alpha;676609;362507;Shell UK Exploration & Production;3;Oil & gas exploration and production;55911.33946;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11452;Leman Alpha;676609;362507;Shell UK Exploration & Production;3;Oil & gas exploration and production;77961.3904;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11453;Lomond;650888;830306;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;36239.04514;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11453;Lomond;650888;830306;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;28129.7831;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11453;Lomond;650888;830306;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;27507.01157;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11453;Lomond;650888;830306;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;41957.85438;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11453;Lomond;650888;830306;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;38419.60112;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11453;Lomond;650888;830306;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;38700.53119;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11453;Lomond;650888;830306;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;36462.56027;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11455;Maersk Curlew;597435;763081;Shell UK Exploration & Production;3;Oil & gas exploration and production;46333.62971;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11455;Maersk Curlew;597435;763081;Shell UK Exploration & Production;3;Oil & gas exploration and production;35655.6374;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11455;Maersk Curlew;597435;763081;Shell UK Exploration & Production;3;Oil & gas exploration and production;31038.58157;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11455;Maersk Curlew;597435;763081;Shell UK Exploration & Production;3;Oil & gas exploration and production;31034.27857;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11455;Maersk Curlew;597435;763081;Shell UK Exploration & Production;3;Oil & gas exploration and production;38550.99797;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11455;Maersk Curlew;597435;763081;Shell UK Exploration & Production;3;Oil & gas exploration and production;31802.98816;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11455;Maersk Curlew;597435;763081;Shell UK Exploration & Production;3;Oil & gas exploration and production;35449.02245;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11456;Magnus;574210;1308249;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;93704.8798;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11456;Magnus;574210;1308249;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;84271.68778;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11456;Magnus;574210;1308249;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;79261.5664;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11456;Magnus;574210;1308249;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;74420.78047;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11456;Magnus;574210;1308249;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;83270.68168;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11456;Magnus;574210;1308249;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;88415.55271;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11456;Magnus;574210;1308249;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;92040.332;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11457;McCulloch;560173;939314;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;74897.27516;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11457;McCulloch;560173;939314;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;41137.63746;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11457;McCulloch;560173;939314;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;36765.04007;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11457;McCulloch;560173;939314;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;33400.14369;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11457;McCulloch;560173;939314;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;39416.80033;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11457;McCulloch;560173;939314;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;33438.68078;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11457;McCulloch;560173;939314;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;34672.80731;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11459;Miller;595076;988645;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;99150.70097;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11459;Miller;595076;988645;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;79258.62556;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11459;Miller;595076;988645;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;77274.75615;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11459;Miller;595076;988645;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;69896.64455;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11459;Miller;595076;988645;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;62651.25243;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11459;Miller;595076;988645;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;66264.14241;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11459;Miller;595076;988645;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;63528.50213;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11460;Montrose Alpha;604461;845774;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;124174.0919;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11460;Montrose Alpha;604461;845774;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;103215.8336;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11460;Montrose Alpha;604461;845774;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;81083.55114;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11460;Montrose Alpha;604461;845774;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;66285.97864;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11460;Montrose Alpha;604461;845774;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;57060.11969;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11460;Montrose Alpha;604461;845774;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;49798.66771;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11460;Montrose Alpha;604461;845774;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;60328.15463;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11461;Morecambe Central Processing Complex;292622;441679;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;65929.98936;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11461;Morecambe Central Processing Complex;292622;441679;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;74911.54886;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11461;Morecambe Central Processing Complex;292622;441679;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;63646.46681;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11461;Morecambe Central Processing Complex;292622;441679;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;72860.12618;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11461;Morecambe Central Processing Complex;292622;441679;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;67542.42447;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11461;Morecambe Central Processing Complex;292622;441679;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;68149.63098;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11461;Morecambe Central Processing Complex;292622;441679;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;70656.40301;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11462;Murchison;599640;1284491;CNR International (UK) Ltd;3;Oil & gas exploration and production;81372.45733;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11462;Murchison;599640;1284491;CNR International (UK) Ltd;3;Oil & gas exploration and production;63794.69667;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11462;Murchison;599640;1284491;CNR International (UK) Ltd;3;Oil & gas exploration and production;60102.23341;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11462;Murchison;599640;1284491;CNR International (UK) Ltd;3;Oil & gas exploration and production;58682.34875;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11462;Murchison;599640;1284491;CNR International (UK) Ltd;3;Oil & gas exploration and production;62067.76325;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11462;Murchison;599640;1284491;CNR International (UK) Ltd;3;Oil & gas exploration and production;58256.12309;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11462;Murchison;599640;1284491;CNR International (UK) Ltd;3;Oil & gas exploration and production;63246.54098;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11463;Murdoch;679553;495744;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;383.3392777;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11463;Murdoch;679553;495744;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;28284.92289;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11463;Murdoch;679553;495744;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;30267.33713;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11463;Murdoch;679553;495744;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;38325.59549;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11463;Murdoch;679553;495744;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;30035.98809;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11463;Murdoch;679553;495744;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;31678.50338;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11463;Murdoch;679553;495744;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;43115.16289;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11464;Nelson;586815;868247;Shell UK Exploration & Production;3;Oil & gas exploration and production;101032.2783;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11464;Nelson;586815;868247;Shell UK Exploration & Production;3;Oil & gas exploration and production;97479.50814;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11464;Nelson;586815;868247;Shell UK Exploration & Production;3;Oil & gas exploration and production;81181.31143;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11464;Nelson;586815;868247;Shell UK Exploration & Production;3;Oil & gas exploration and production;88080.47364;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11464;Nelson;586815;868247;Shell UK Exploration & Production;3;Oil & gas exploration and production;73687.52112;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11464;Nelson;586815;868247;Shell UK Exploration & Production;3;Oil & gas exploration and production;84028.55618;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11464;Nelson;586815;868247;Shell UK Exploration & Production;3;Oil & gas exploration and production;78006.76007;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11465;Ninian Central;587999;1224785;CNR International (UK) Ltd;3;Oil & gas exploration and production;229082.8769;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11465;Ninian Central;587999;1224785;CNR International (UK) Ltd;3;Oil & gas exploration and production;223763.8416;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11465;Ninian Central;587999;1224785;CNR International (UK) Ltd;3;Oil & gas exploration and production;219286.1788;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11465;Ninian Central;587999;1224785;CNR International (UK) Ltd;3;Oil & gas exploration and production;214482.0456;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11465;Ninian Central;587999;1224785;CNR International (UK) Ltd;3;Oil & gas exploration and production;215882.5737;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11465;Ninian Central;587999;1224785;CNR International (UK) Ltd;3;Oil & gas exploration and production;233435.0906;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11465;Ninian Central;587999;1224785;CNR International (UK) Ltd;3;Oil & gas exploration and production;81197.37764;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11466;Ninian Northern;587999;1224785;CNR International (UK) Ltd;3;Oil & gas exploration and production;43440.82773;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11467;Ninian Southern;587999;1224785;CNR International (UK) Ltd;3;Oil & gas exploration and production;114344.543;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11468;Cormorant North;569913;1263273;Shell UK Exploration & Production;3;Oil & gas exploration and production;64636.30663;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11468;Cormorant North;569913;1263273;Shell UK Exploration & Production;3;Oil & gas exploration and production;69676.80004;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11468;Cormorant North;569913;1263273;Shell UK Exploration & Production;3;Oil & gas exploration and production;69086.48726;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11468;Cormorant North;569913;1263273;Shell UK Exploration & Production;3;Oil & gas exploration and production;61330.64155;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11468;Cormorant North;569913;1263273;Shell UK Exploration & Production;3;Oil & gas exploration and production;60399.66327;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11468;Cormorant North;569913;1263273;Shell UK Exploration & Production;3;Oil & gas exploration and production;57828.91296;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11468;Cormorant North;569913;1263273;Shell UK Exploration & Production;3;Oil & gas exploration and production;36825.75554;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11469;Northern Producer (Galley);544785;935880;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;50246.16119;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11469;Northern Producer (Galley);544785;935880;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;51912.69927;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11469;Northern Producer (Galley);544785;935880;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;44841.47629;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11469;Northern Producer (Galley);544785;935880;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;43727.85169;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11469;Northern Producer (Galley);544785;935880;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;31192.90088;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11469;Northern Producer (Galley);544785;935880;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;26345.28329;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11469;Northern Producer (Galley);544785;935880;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;23333.38498;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11473;Petrojarl Banff;601685;793629;CNR International (UK) Ltd;3;Oil & gas exploration and production;115057.5054;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11473;Petrojarl Banff;601685;793629;CNR International (UK) Ltd;3;Oil & gas exploration and production;36129.19535;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11473;Petrojarl Banff;601685;793629;CNR International (UK) Ltd;3;Oil & gas exploration and production;40560.63636;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11473;Petrojarl Banff;601685;793629;CNR International (UK) Ltd;3;Oil & gas exploration and production;49751.45792;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11473;Petrojarl Banff;601685;793629;CNR International (UK) Ltd;3;Oil & gas exploration and production;49831.59576;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11473;Petrojarl Banff;601685;793629;CNR International (UK) Ltd;3;Oil & gas exploration and production;51517.59815;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11474;Pierce (Hawene Brim);657858;814198;Shell UK Exploration & Production;3;Oil & gas exploration and production;91038.95435;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11474;Pierce (Hawene Brim);657858;814198;Shell UK Exploration & Production;3;Oil & gas exploration and production;60250.31663;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11474;Pierce (Hawene Brim);657858;814198;Shell UK Exploration & Production;3;Oil & gas exploration and production;59238.6749;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11474;Pierce (Hawene Brim);657858;814198;Shell UK Exploration & Production;3;Oil & gas exploration and production;43382.38764;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11474;Pierce (Hawene Brim);657858;814198;Shell UK Exploration & Production;3;Oil & gas exploration and production;46476.19595;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11474;Pierce (Hawene Brim);657858;814198;Shell UK Exploration & Production;3;Oil & gas exploration and production;44825.63768;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11475;Piper Bravo;532587;954529;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;97391.34545;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11475;Piper Bravo;532587;954529;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;85723.68976;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11475;Piper Bravo;532587;954529;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;87515.81812;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11475;Piper Bravo;532587;954529;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;89707.79587;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11475;Piper Bravo;532587;954529;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;77425.24834;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11475;Piper Bravo;532587;954529;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;97681.02417;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11475;Piper Bravo;532587;954529;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;84913.80374;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11479;Ravenspurn North;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;29523.53301;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11479;Ravenspurn North;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;26606.21559;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11479;Ravenspurn North;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;24259.29384;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11479;Ravenspurn North;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;21811.87003;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11479;Ravenspurn North;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;23427.06336;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11479;Ravenspurn North;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;16055.79637;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11479;Ravenspurn North;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;17647.17919;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11480;Rough 47/3B;561600;439689;Centrica Storage Ltd;3;Oil & gas exploration and production;21936.91546;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11480;Rough 47/3B;561600;439689;Centrica Storage Ltd;3;Oil & gas exploration and production;48584.94349;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11480;Rough 47/3B;561600;439689;Centrica Storage Ltd;3;Oil & gas exploration and production;30680.61092;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11480;Rough 47/3B;561600;439689;Centrica Storage Ltd;3;Oil & gas exploration and production;32673.72004;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11480;Rough 47/3B;561600;439689;Centrica Storage Ltd;3;Oil & gas exploration and production;29102.99326;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11480;Rough 47/3B;561600;439689;Centrica Storage Ltd;3;Oil & gas exploration and production;32020.68033;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11480;Rough 47/3B;561600;439689;Centrica Storage Ltd;3;Oil & gas exploration and production;29934.96501;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11482;Schiehallion;287608;1164816;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;95682.03642;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11482;Schiehallion;287608;1164816;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;96801.60502;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11482;Schiehallion;287608;1164816;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;66912.51858;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11482;Schiehallion;287608;1164816;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;70502.05735;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11482;Schiehallion;287608;1164816;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;66774.41796;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11482;Schiehallion;287608;1164816;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;74883.10318;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11482;Schiehallion;287608;1164816;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;72078.96065;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11483;Scott;530928;932806;Nexen Petroleum UK Ltd;3;Oil & gas exploration and production;139164.8545;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11483;Scott;530928;932806;Nexen Petroleum UK Ltd;3;Oil & gas exploration and production;138198.3876;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11483;Scott;530928;932806;Nexen Petroleum UK Ltd;3;Oil & gas exploration and production;116113.2359;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11483;Scott;530928;932806;Nexen Petroleum UK Ltd;3;Oil & gas exploration and production;106157.484;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11483;Scott;530928;932806;Nexen Petroleum UK Ltd;3;Oil & gas exploration and production;97272.45692;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11483;Scott;530928;932806;Nexen Petroleum UK Ltd;3;Oil & gas exploration and production;99815.90922;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11483;Scott;530928;932806;Nexen Petroleum UK Ltd;3;Oil & gas exploration and production;87848.77066;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11484;Sean;722687;380114;Shell UK Exploration & Production;3;Oil & gas exploration and production;4184.908072;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11484;Sean;722687;380114;Shell UK Exploration & Production;3;Oil & gas exploration and production;4830.714786;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11484;Sean;722687;380114;Shell UK Exploration & Production;3;Oil & gas exploration and production;4386.236049;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11484;Sean;722687;380114;Shell UK Exploration & Production;3;Oil & gas exploration and production;4269.183184;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11484;Sean;722687;380114;Shell UK Exploration & Production;3;Oil & gas exploration and production;4387.673137;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11484;Sean;722687;380114;Shell UK Exploration & Production;3;Oil & gas exploration and production;4304.098294;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11484;Sean;722687;380114;Shell UK Exploration & Production;3;Oil & gas exploration and production;10413.60327;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11485;Shearwater;639012;799944;Shell UK Exploration & Production;3;Oil & gas exploration and production;32874.52909;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11485;Shearwater;639012;799944;Shell UK Exploration & Production;3;Oil & gas exploration and production;59317.31269;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11485;Shearwater;639012;799944;Shell UK Exploration & Production;3;Oil & gas exploration and production;97611.78274;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11485;Shearwater;639012;799944;Shell UK Exploration & Production;3;Oil & gas exploration and production;81108.59371;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11485;Shearwater;639012;799944;Shell UK Exploration & Production;3;Oil & gas exploration and production;109931.1205;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11486;Sole Pit Clipper;647909;403321;Shell UK Exploration & Production;3;Oil & gas exploration and production;21431.60244;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11486;Sole Pit Clipper;647909;403321;Shell UK Exploration & Production;3;Oil & gas exploration and production;14387.18264;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11486;Sole Pit Clipper;647909;403321;Shell UK Exploration & Production;3;Oil & gas exploration and production;27582.61429;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11486;Sole Pit Clipper;647909;403321;Shell UK Exploration & Production;3;Oil & gas exploration and production;50060.59902;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11486;Sole Pit Clipper;647909;403321;Shell UK Exploration & Production;3;Oil & gas exploration and production;39790.42638;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11486;Sole Pit Clipper;647909;403321;Shell UK Exploration & Production;3;Oil & gas exploration and production;34413.68617;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11486;Sole Pit Clipper;647909;403321;Shell UK Exploration & Production;3;Oil & gas exploration and production;44457.89877;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11489;Tartan Alpha;523753;941730;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;84661.15334;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11489;Tartan Alpha;523753;941730;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;71328.50694;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11489;Tartan Alpha;523753;941730;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;93270.87113;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11489;Tartan Alpha;523753;941730;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;38988.9056;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11489;Tartan Alpha;523753;941730;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;70469.13164;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11489;Tartan Alpha;523753;941730;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;57095.63477;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11489;Tartan Alpha;523753;941730;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;61997.01847;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11491;Tern Alpha;555679;1269732;Shell UK Exploration & Production;3;Oil & gas exploration and production;61922.04816;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11491;Tern Alpha;555679;1269732;Shell UK Exploration & Production;3;Oil & gas exploration and production;72530.01841;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11491;Tern Alpha;555679;1269732;Shell UK Exploration & Production;3;Oil & gas exploration and production;67769.3039;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11491;Tern Alpha;555679;1269732;Shell UK Exploration & Production;3;Oil & gas exploration and production;76950.08605;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11491;Tern Alpha;555679;1269732;Shell UK Exploration & Production;3;Oil & gas exploration and production;74249.4255;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11491;Tern Alpha;555679;1269732;Shell UK Exploration & Production;3;Oil & gas exploration and production;74789.02685;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11491;Tern Alpha;555679;1269732;Shell UK Exploration & Production;3;Oil & gas exploration and production;65633.10466;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11492;Thames Alpha;703551;364188;Mobil North Sea Ltd;3;Oil & gas exploration and production;24030.0224;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11492;Thames Alpha;703551;364188;Mobil North Sea Ltd;3;Oil & gas exploration and production;26029.62861;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11492;Thames Alpha;703551;364188;Mobil North Sea Ltd;3;Oil & gas exploration and production;27334.10998;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11492;Thames Alpha;703551;364188;Mobil North Sea Ltd;3;Oil & gas exploration and production;32079.55313;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11492;Thames Alpha;703551;364188;Mobil North Sea Ltd;3;Oil & gas exploration and production;37519.20369;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11492;Thames Alpha;703551;364188;Mobil North Sea Ltd;3;Oil & gas exploration and production;27045.26973;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11492;Thames Alpha;703551;364188;Mobil North Sea Ltd;3;Oil & gas exploration and production;20009.9578;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11494;Thistle Alpha;591695;1280757;Lundin Britain Ltd;3;Oil & gas exploration and production;92427.59035;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11494;Thistle Alpha;591695;1280757;Lundin Britain Ltd;3;Oil & gas exploration and production;39069.70324;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11494;Thistle Alpha;591695;1280757;Lundin Britain Ltd;3;Oil & gas exploration and production;51825.5912;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11494;Thistle Alpha;591695;1280757;Lundin Britain Ltd;3;Oil & gas exploration and production;46319.08442;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11494;Thistle Alpha;591695;1280757;Lundin Britain Ltd;3;Oil & gas exploration and production;50311.10989;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11494;Thistle Alpha;591695;1280757;Lundin Britain Ltd;3;Oil & gas exploration and production;36453.87911;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11494;Thistle Alpha;591695;1280757;Lundin Britain Ltd;3;Oil & gas exploration and production;39731.9742;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11495;Tiffany;590824;959968;CNR International (UK) Ltd;3;Oil & gas exploration and production;110606.1437;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11495;Tiffany;590824;959968;CNR International (UK) Ltd;3;Oil & gas exploration and production;122856.5193;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11495;Tiffany;590824;959968;CNR International (UK) Ltd;3;Oil & gas exploration and production;93449.75874;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11495;Tiffany;590824;959968;CNR International (UK) Ltd;3;Oil & gas exploration and production;87764.15962;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11495;Tiffany;590824;959968;CNR International (UK) Ltd;3;Oil & gas exploration and production;69053.21198;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11495;Tiffany;590824;959968;CNR International (UK) Ltd;3;Oil & gas exploration and production;69575.47886;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11495;Tiffany;590824;959968;CNR International (UK) Ltd;3;Oil & gas exploration and production;57613.23067;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11496;Trent Compression Facilities;638217;495513;Perenco UK Ltd;3;Oil & gas exploration and production;301.8360069;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11496;Trent Compression Facilities;638217;495513;Perenco UK Ltd;3;Oil & gas exploration and production;626.6773162;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11496;Trent Compression Facilities;638217;495513;Perenco UK Ltd;3;Oil & gas exploration and production;624.4341523;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11496;Trent Compression Facilities;638217;495513;Perenco UK Ltd;3;Oil & gas exploration and production;601.2978487;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11496;Trent Compression Facilities;638217;495513;Perenco UK Ltd;3;Oil & gas exploration and production;0.181301399;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11496;Trent Compression Facilities;638217;495513;Perenco UK Ltd;3;Oil & gas exploration and production;834.2738882;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11496;Trent Compression Facilities;638217;495513;Perenco UK Ltd;3;Oil & gas exploration and production;836.9056121;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11497;Triton FPSO;569340;814189;Amerada Hess Ltd;3;Oil & gas exploration and production;110153.4216;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11497;Triton FPSO;569340;814189;Amerada Hess Ltd;3;Oil & gas exploration and production;84962.73301;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11497;Triton FPSO;569340;814189;Amerada Hess Ltd;3;Oil & gas exploration and production;66077.62683;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11497;Triton FPSO;569340;814189;Amerada Hess Ltd;3;Oil & gas exploration and production;58282.78645;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11497;Triton FPSO;569340;814189;Amerada Hess Ltd;3;Oil & gas exploration and production;64829.54977;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11500;Uisge Gorm;695972;707959;Amerada Hess Ltd;3;Oil & gas exploration and production;32489.25745;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11500;Uisge Gorm;695972;707959;Amerada Hess Ltd;3;Oil & gas exploration and production;38040.84964;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11500;Uisge Gorm;695972;707959;Amerada Hess Ltd;3;Oil & gas exploration and production;36580.43329;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11500;Uisge Gorm;695972;707959;Amerada Hess Ltd;3;Oil & gas exploration and production;38228.86753;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11500;Uisge Gorm;695972;707959;Amerada Hess Ltd;3;Oil & gas exploration and production;46907.69791;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11500;Uisge Gorm;695972;707959;Amerada Hess Ltd;3;Oil & gas exploration and production;33204.55338;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11500;Uisge Gorm;695972;707959;Amerada Hess Ltd;3;Oil & gas exploration and production;25530.71976;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11502;Viking;687137;402547;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;33829.25244;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11502;Viking;687137;402547;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;31899.73445;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11502;Viking;687137;402547;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;32415.88683;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11502;Viking;687137;402547;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;33333.52097;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11502;Viking;687137;402547;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;38067.97874;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11502;Viking;687137;402547;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;42734.72867;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11502;Viking;687137;402547;ConocoPhillips (UK) Ltd;3;Oil & gas exploration and production;38654.42363;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11505;Amethyst A1D Platform;580144;416207;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;5.45E-02;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11505;Amethyst A1D Platform;580144;416207;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;847.9582267;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11505;Amethyst A1D Platform;580144;416207;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;741.0163135;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11505;Amethyst A1D Platform;580144;416207;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;3172.087033;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11505;Amethyst A1D Platform;580144;416207;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;2.339485036;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11505;Amethyst A1D Platform;580144;416207;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;34.96739845;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11505;Amethyst A1D Platform;580144;416207;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;134.138094;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11515;Brent A Platform;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;67435.24691;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11515;Brent A Platform;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;79236.54488;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11515;Brent A Platform;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;62246.87615;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11515;Brent A Platform;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;58558.43219;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11515;Brent A Platform;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;53364.84605;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11515;Brent A Platform;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;10399.15615;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11515;Brent A Platform;599054;1251845;Shell UK Exploration & Production;3;Oil & gas exploration and production;1973.116156;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11522;Hewett 48/29 C Platform;645319;358766;Tullow Oil UK Ltd;3;Oil & gas exploration and production;591.2678606;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11522;Hewett 48/29 C Platform;645319;358766;Tullow Oil UK Ltd;3;Oil & gas exploration and production;378.8825711;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11522;Hewett 48/29 C Platform;645319;358766;Tullow Oil UK Ltd;3;Oil & gas exploration and production;547.0196496;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11522;Hewett 48/29 C Platform;645319;358766;Tullow Oil UK Ltd;3;Oil & gas exploration and production;633.8234869;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11522;Hewett 48/29 C Platform;645319;358766;Tullow Oil UK Ltd;3;Oil & gas exploration and production;177.8570284;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11786;Ardmore;695972;707959;Tuscan Energy (Scotland) Ltd;3;Oil & gas exploration and production;7084.22148;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11786;Ardmore;695972;707959;Tuscan Energy (Scotland) Ltd;3;Oil & gas exploration and production;15578.23825;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11790;Global Producer III;607276;1076688;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;14257.62985;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11790;Global Producer III;607276;1076688;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;72679.93849;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11790;Global Producer III;607276;1076688;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;52912.81857;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11790;Global Producer III;607276;1076688;Maersk Oil North Sea UK Ltd;3;Oil & gas exploration and production;36427.8755;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;11793;Saltire Alpha;538400;950974;Talisman Energy UK Ltd;3;Oil & gas exploration and production;17790.84545;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;11793;Saltire Alpha;538400;950974;Talisman Energy UK Ltd;3;Oil & gas exploration and production;27334.15545;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;11793;Saltire Alpha;538400;950974;Talisman Energy UK Ltd;3;Oil & gas exploration and production;14424.60615;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11793;Saltire Alpha;538400;950974;Talisman Energy UK Ltd;3;Oil & gas exploration and production;5096.112515;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;11793;Saltire Alpha;538400;950974;Talisman Energy UK Ltd;3;Oil & gas exploration and production;5714.048747;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;11793;Saltire Alpha;538400;950974;Talisman Energy UK Ltd;3;Oil & gas exploration and production;958.9018396;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;11793;Saltire Alpha;538400;950974;Talisman Energy UK Ltd;3;Oil & gas exploration and production;3913.593335;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;11795;FPSO Hummingbird;591286;900647;Sevan Marine;3;Oil & gas exploration and production;22625.36249;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12904;Anglia;643122;391947;ConocoPhillips;9;Processing & distribution of petroleum products;59.49883788;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12904;Anglia;643122;391947;ConocoPhillips;9;Processing & distribution of petroleum products;40.50466132;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12904;Anglia;643122;391947;ConocoPhillips;9;Processing & distribution of petroleum products;31.08044971;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12904;Anglia;643122;391947;ConocoPhillips;9;Processing & distribution of petroleum products;41.55228207;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12904;Anglia;643122;391947;ConocoPhillips;9;Processing & distribution of petroleum products;52.98203571;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12904;Anglia;643122;391947;ConocoPhillips;9;Processing & distribution of petroleum products;21.89649885;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12904;Anglia;643122;391947;ConocoPhillips;9;Processing & distribution of petroleum products;23.14692702;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12905;Arbroath;604961;837268;Talisman Energy UK Ltd;3;Oil & gas exploration and production;1321.540121;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12905;Arbroath;604961;837268;Talisman Energy UK Ltd;3;Oil & gas exploration and production;1130.737931;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12905;Arbroath;604961;837268;Talisman Energy UK Ltd;3;Oil & gas exploration and production;1131.098632;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12905;Arbroath;604961;837268;Talisman Energy UK Ltd;3;Oil & gas exploration and production;1147.27909;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12905;Arbroath;604961;837268;Talisman Energy UK Ltd;3;Oil & gas exploration and production;844.9941211;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12905;Arbroath;604961;837268;Talisman Energy UK Ltd;3;Oil & gas exploration and production;838.8905118;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12905;Arbroath;604961;837268;Talisman Energy UK Ltd;3;Oil & gas exploration and production;903.2685197;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12908;Audrey;666461;413758;ConocoPhillips;3;Oil & gas exploration and production;115.8192691;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12908;Audrey;666461;413758;ConocoPhillips;3;Oil & gas exploration and production;72.8962861;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12908;Audrey;666461;413758;ConocoPhillips;3;Oil & gas exploration and production;60.44085442;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12908;Audrey;666461;413758;ConocoPhillips;3;Oil & gas exploration and production;50.35041993;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12908;Audrey;666461;413758;ConocoPhillips;3;Oil & gas exploration and production;67.6878333;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12908;Audrey;666461;413758;ConocoPhillips;3;Oil & gas exploration and production;59.8638898;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12908;Audrey;666461;413758;ConocoPhillips;3;Oil & gas exploration and production;55.82472872;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12918;Blenheim/Bladon;576477;935850;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;46279.59727;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12918;Blenheim/Bladon;576477;935850;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;22210.0911;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12918;Blenheim/Bladon;576477;935850;Talisman Energy (UK) Ltd;3;Oil & gas exploration and production;5142.220446;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12928;Waveney;620012;389120;Perenco UK Ltd;3;Oil & gas exploration and production;30.40165689;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12928;Waveney;620012;389120;Perenco UK Ltd;3;Oil & gas exploration and production;35.37389502;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12928;Waveney;620012;389120;Perenco UK Ltd;3;Oil & gas exploration and production;44.51041965;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12928;Waveney;620012;389120;Perenco UK Ltd;3;Oil & gas exploration and production;4.39E-02;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12928;Waveney;620012;389120;Perenco UK Ltd;3;Oil & gas exploration and production;36.81669307;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12928;Waveney;620012;389120;Perenco UK Ltd;3;Oil & gas exploration and production;46.47456131;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12946;Welland;714321;354768;Mobil North Sea Ltd;3;Oil & gas exploration and production;359.5452653;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12946;Welland;714321;354768;Mobil North Sea Ltd;3;Oil & gas exploration and production;159.5459657;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12946;Welland;714321;354768;Mobil North Sea Ltd;3;Oil & gas exploration and production;149.1999983;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12946;Welland;714321;354768;Mobil North Sea Ltd;3;Oil & gas exploration and production;140.1224252;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12946;Welland;714321;354768;Mobil North Sea Ltd;3;Oil & gas exploration and production;195.9831289;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12946;Welland;714321;354768;Mobil North Sea Ltd;3;Oil & gas exploration and production;51.20145698;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12946;Welland;714321;354768;Mobil North Sea Ltd;3;Oil & gas exploration and production;87.73896232;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12953;Dunbar;601414;1191331;TotalFinaElf;3;Oil & gas exploration and production;97876.63172;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12953;Dunbar;601414;1191331;TotalFinaElf;3;Oil & gas exploration and production;7176.798005;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12953;Dunbar;601414;1191331;TotalFinaElf;3;Oil & gas exploration and production;6207.885359;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12953;Dunbar;601414;1191331;TotalFinaElf;3;Oil & gas exploration and production;8311.26594;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12953;Dunbar;601414;1191331;TotalFinaElf;3;Oil & gas exploration and production;7450.729192;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12953;Dunbar;601414;1191331;TotalFinaElf;3;Oil & gas exploration and production;7686.947569;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12953;Dunbar;601414;1191331;TotalFinaElf;3;Oil & gas exploration and production;6412.415651;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12955;Durward / Dauntless;528774;844231;Amerada Hess Ltd;3;Oil & gas exploration and production;36576.24931;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12955;Durward / Dauntless;528774;844231;Amerada Hess Ltd;3;Oil & gas exploration and production;8240.295889;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12958;Erskine;646334;802920;ChevronTex;3;Oil & gas exploration and production;183.2067867;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12958;Erskine;646334;802920;ChevronTex;3;Oil & gas exploration and production;113.7612055;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12958;Erskine;646334;802920;ChevronTex;3;Oil & gas exploration and production;191.2705874;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12958;Erskine;646334;802920;ChevronTex;3;Oil & gas exploration and production;8926.284758;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12958;Erskine;646334;802920;ChevronTex;3;Oil & gas exploration and production;9414.170391;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12958;Erskine;646334;802920;ChevronTex;3;Oil & gas exploration and production;13702.11896;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12958;Erskine;646334;802920;ChevronTex;3;Oil & gas exploration and production;12064.54732;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12961;Europa;686368;379517;ConocoPhillips;3;Oil & gas exploration and production;6.564753384;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12961;Europa;686368;379517;ConocoPhillips;3;Oil & gas exploration and production;26.30442138;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12961;Europa;686368;379517;ConocoPhillips;3;Oil & gas exploration and production;23.27652718;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12961;Europa;686368;379517;ConocoPhillips;3;Oil & gas exploration and production;36.75573822;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12961;Europa;686368;379517;ConocoPhillips;3;Oil & gas exploration and production;33.02236364;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12961;Europa;686368;379517;ConocoPhillips;3;Oil & gas exploration and production;39.10069399;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12963;Excalibur;624644;400323;ExxonMobil;3;Oil & gas exploration and production;206.2873104;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12963;Excalibur;624644;400323;ExxonMobil;3;Oil & gas exploration and production;123.4552621;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12963;Excalibur;624644;400323;ExxonMobil;3;Oil & gas exploration and production;139.8565205;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12963;Excalibur;624644;400323;ExxonMobil;3;Oil & gas exploration and production;124.4600446;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12963;Excalibur;624644;400323;ExxonMobil;3;Oil & gas exploration and production;159.2518391;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12963;Excalibur;624644;400323;ExxonMobil;3;Oil & gas exploration and production;120.6856153;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12963;Excalibur;624644;400323;ExxonMobil;3;Oil & gas exploration and production;123.8669559;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12970;Forties Echo;577220;875092;Apache;3;Oil & gas exploration and production;107.6356892;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12971;Frigg MCP-01;624744;1112455;Total;3;Oil & gas exploration and production;615.4030923;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12971;Frigg MCP-01;624744;1112455;Total;3;Oil & gas exploration and production;345.6448708;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12971;Frigg MCP-01;624744;1112455;Total;3;Oil & gas exploration and production;339.7906617;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12971;Frigg MCP-01;624744;1112455;Total;3;Oil & gas exploration and production;315.073757;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12971;Frigg MCP-01;624744;1112455;Total;3;Oil & gas exploration and production;475.1946431;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12971;Frigg MCP-01;624744;1112455;Total;3;Oil & gas exploration and production;455.5739349;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12971;Frigg MCP-01;624744;1112455;Total;3;Oil & gas exploration and production;437.4797598;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12973;Galahad;624692;410108;ExxonMobil;3;Oil & gas exploration and production;83.52652727;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12973;Galahad;624692;410108;ExxonMobil;3;Oil & gas exploration and production;66.92153669;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12973;Galahad;624692;410108;ExxonMobil;3;Oil & gas exploration and production;40.6818879;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12973;Galahad;624692;410108;ExxonMobil;3;Oil & gas exploration and production;56.90592675;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12973;Galahad;624692;410108;ExxonMobil;3;Oil & gas exploration and production;58.47923442;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12973;Galahad;624692;410108;ExxonMobil;3;Oil & gas exploration and production;51.23518498;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12973;Galahad;624692;410108;ExxonMobil;3;Oil & gas exploration and production;58.87175456;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12976;Ganymede;681486;390266;ConocoPhillips;3;Oil & gas exploration and production;59.49598516;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12976;Ganymede;681486;390266;ConocoPhillips;3;Oil & gas exploration and production;41.94253005;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12976;Ganymede;681486;390266;ConocoPhillips;3;Oil & gas exploration and production;8.761875107;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12976;Ganymede;681486;390266;ConocoPhillips;3;Oil & gas exploration and production;7.810406642;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12976;Ganymede;681486;390266;ConocoPhillips;3;Oil & gas exploration and production;8.684845007;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12976;Ganymede;681486;390266;ConocoPhillips;3;Oil & gas exploration and production;12.00211667;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12976;Ganymede;681486;390266;ConocoPhillips;3;Oil & gas exploration and production;23.06688602;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12979;Guinevere;617649;395883;ConocoPhillips;3;Oil & gas exploration and production;97.97194901;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12979;Guinevere;617649;395883;ConocoPhillips;3;Oil & gas exploration and production;50.75184803;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12979;Guinevere;617649;395883;ConocoPhillips;3;Oil & gas exploration and production;58.05423255;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12979;Guinevere;617649;395883;ConocoPhillips;3;Oil & gas exploration and production;40.69784498;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12979;Guinevere;617649;395883;ConocoPhillips;3;Oil & gas exploration and production;57.31424937;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12979;Guinevere;617649;395883;ConocoPhillips;3;Oil & gas exploration and production;59.59702618;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12979;Guinevere;617649;395883;ConocoPhillips;3;Oil & gas exploration and production;70.20544529;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12987;Hutton;583709;1248126;Kerr-McGee North Sea (UK) Ltd;3;Oil & gas exploration and production;50158.62342;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12987;Hutton;583709;1248126;Kerr-McGee North Sea (UK) Ltd;3;Oil & gas exploration and production;46303.17248;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12987;Hutton;583709;1248126;Kerr-McGee North Sea (UK) Ltd;3;Oil & gas exploration and production;41853.86441;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12987;Hutton;583709;1248126;Kerr-McGee North Sea (UK) Ltd;3;Oil & gas exploration and production;50232.60382;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12988;Hyde;599402;439284;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;54.48603081;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12988;Hyde;599402;439284;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;9.47944621;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12988;Hyde;599402;439284;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;152.9702602;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12988;Hyde;599402;439284;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;45.03249065;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12988;Hyde;599402;439284;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;5.40E-02;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12990;Inde;700843;398028;Shell UK Exploration & Production;3;Oil & gas exploration and production;392.3408781;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12990;Inde;700843;398028;Shell UK Exploration & Production;3;Oil & gas exploration and production;19740.75245;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12990;Inde;700843;398028;Shell UK Exploration & Production;3;Oil & gas exploration and production;589.7203715;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12990;Inde;700843;398028;Shell UK Exploration & Production;3;Oil & gas exploration and production;11668.95266;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12990;Inde;700843;398028;Shell UK Exploration & Production;3;Oil & gas exploration and production;536.4277172;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12990;Inde;700843;398028;Shell UK Exploration & Production;3;Oil & gas exploration and production;4028.475387;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12990;Inde;700843;398028;Shell UK Exploration & Production;3;Oil & gas exploration and production;0.141818182;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12991;Jade;659563;781213;ConocoPhillips;3;Oil & gas exploration and production;408.4188322;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12991;Jade;659563;781213;ConocoPhillips;3;Oil & gas exploration and production;326.2709171;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12991;Jade;659563;781213;ConocoPhillips;3;Oil & gas exploration and production;373.0576444;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12995;Ketch;691139;472012;Shell UK Exploration & Production;3;Oil & gas exploration and production;500.0805197;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12995;Ketch;691139;472012;Shell UK Exploration & Production;3;Oil & gas exploration and production;3414.759042;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12995;Ketch;691139;472012;Shell UK Exploration & Production;3;Oil & gas exploration and production;8.18E-02;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;12998;Lancelot;624430;395660;Perenco UK Ltd;3;Oil & gas exploration and production;219.2086809;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;12998;Lancelot;624430;395660;Perenco UK Ltd;3;Oil & gas exploration and production;137.6672987;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;12998;Lancelot;624430;395660;Perenco UK Ltd;3;Oil & gas exploration and production;107.6777313;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;12998;Lancelot;624430;395660;Perenco UK Ltd;3;Oil & gas exploration and production;88.20289791;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;12998;Lancelot;624430;395660;Perenco UK Ltd;3;Oil & gas exploration and production;96.03745049;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;12998;Lancelot;624430;395660;Perenco UK Ltd;3;Oil & gas exploration and production;101.382631;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;12998;Lancelot;624430;395660;Perenco UK Ltd;3;Oil & gas exploration and production;93.94577925;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;13007;Mallory;615060;410091;ExxonMobil;3;Oil & gas exploration and production;17.25377242;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13007;Mallory;615060;410091;ExxonMobil;3;Oil & gas exploration and production;45.67941633;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13007;Mallory;615060;410091;ExxonMobil;3;Oil & gas exploration and production;49.00485425;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13007;Mallory;615060;410091;ExxonMobil;3;Oil & gas exploration and production;41.14017624;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13007;Mallory;615060;410091;ExxonMobil;3;Oil & gas exploration and production;50.97399165;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;13007;Mallory;615060;410091;ExxonMobil;3;Oil & gas exploration and production;44.88927622;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13007;Mallory;615060;410091;ExxonMobil;3;Oil & gas exploration and production;47.50992338;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;13008;Markham;719379;452149;Venture;3;Oil & gas exploration and production;78793.95378;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13008;Markham;719379;452149;Venture;3;Oil & gas exploration and production;152.720384;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13008;Markham;719379;452149;Venture;3;Oil & gas exploration and production;182.7012118;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13008;Markham;719379;452149;Venture;3;Oil & gas exploration and production;129.3362532;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13008;Markham;719379;452149;Venture;3;Oil & gas exploration and production;114.8845617;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;13008;Markham;719379;452149;Venture;3;Oil & gas exploration and production;118.4129429;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13008;Markham;719379;452149;Venture;3;Oil & gas exploration and production;161.9587643;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13009;Windermere;712862;447806;RWE;3;Oil & gas exploration and production;0.62028705;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13009;Windermere;712862;447806;RWE;3;Oil & gas exploration and production;5.68E-04;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13009;Windermere;712862;447806;RWE;3;Oil & gas exploration and production;3.22E-02;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13009;Windermere;712862;447806;RWE;3;Oil & gas exploration and production;0.019462377;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;13010;Maureen;619328;920910;Phillips Petroleum;3;Oil & gas exploration and production;38822.10415;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13010;Maureen;619328;920910;Phillips Petroleum;3;Oil & gas exploration and production;24539.37017;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13010;Maureen;619328;920910;Phillips Petroleum;3;Oil & gas exploration and production;8822.293588;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13010;Maureen;619328;920910;Phillips Petroleum;3;Oil & gas exploration and production;1423.152138;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;13015;North Morecambe;291499;452518;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;19.83192232;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13015;North Morecambe;291499;452518;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;25.39039477;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13015;North Morecambe;291499;452518;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;9.826081949;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13015;North Morecambe;291499;452518;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;10.32197494;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13015;North Morecambe;291499;452518;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;11.52691244;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;13015;North Morecambe;291499;452518;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;9.559195995;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13015;North Morecambe;291499;452518;Hydrocarbon Resources Ltd;3;Oil & gas exploration and production;9.872613196;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13018;Neptune;584618;456738;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;25.118663;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13018;Neptune;584618;456738;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;28.31522266;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13018;Neptune;584618;456738;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;20.21875665;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;13018;Neptune;584618;456738;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;35.40338083;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13018;Neptune;584618;456738;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;50.1554036;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;13023;North West Hutton;578535;1253715;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;66033.80239;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13023;North West Hutton;578535;1253715;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;65435.61452;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13023;North West Hutton;578535;1253715;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;30520.72433;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13023;North West Hutton;578535;1253715;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;31657.6891;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13023;North West Hutton;578535;1253715;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;17384.20523;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;13023;North West Hutton;578535;1253715;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;15033.60613;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13023;North West Hutton;578535;1253715;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;3131.828232;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;13028;Pickerill;603900;409235;Perenco UK Ltd;3;Oil & gas exploration and production;200.1062276;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13028;Pickerill;603900;409235;Perenco UK Ltd;3;Oil & gas exploration and production;89.54145261;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13028;Pickerill;603900;409235;Perenco UK Ltd;3;Oil & gas exploration and production;80.48803881;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13028;Pickerill;603900;409235;Perenco UK Ltd;3;Oil & gas exploration and production;57.06364769;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13028;Pickerill;603900;409235;Perenco UK Ltd;3;Oil & gas exploration and production;6.18E-02;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;13028;Pickerill;603900;409235;Perenco UK Ltd;3;Oil & gas exploration and production;16.94295513;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13028;Pickerill;603900;409235;Perenco UK Ltd;3;Oil & gas exploration and production;163.2139344;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13031;Ravenspurn South;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;3.883541678;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13031;Ravenspurn South;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;70.12773345;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13031;Ravenspurn South;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;65.06774303;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13031;Ravenspurn South;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;8.969281541;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13031;Ravenspurn South;591795;464270;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;6.64E-03;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;13035;Schooner;664399;472788;Shell UK Exploration & Production;3;Oil & gas exploration and production;57.61621111;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13035;Schooner;664399;472788;Shell UK Exploration & Production;3;Oil & gas exploration and production;6155.190232;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13035;Schooner;664399;472788;Shell UK Exploration & Production;3;Oil & gas exploration and production;6027.959314;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13035;Schooner;664399;472788;Shell UK Exploration & Production;3;Oil & gas exploration and production;13665.17703;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13035;Schooner;664399;472788;Shell UK Exploration & Production;3;Oil & gas exploration and production;89.87523678;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;13035;Schooner;664399;472788;Shell UK Exploration & Production;3;Oil & gas exploration and production;3481.328279;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13035;Schooner;664399;472788;Shell UK Exploration & Production;3;Oil & gas exploration and production;0.199090909;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;13041;West Sole;607272;428271;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;4714.784212;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13041;West Sole;607272;428271;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;3511.990398;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13041;West Sole;607272;428271;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;3211.355768;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13041;West Sole;607272;428271;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;3803.536917;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13041;West Sole;607272;428271;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;3971.928303;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;13041;West Sole;607272;428271;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;4060.347315;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13041;West Sole;607272;428271;BP Exploration Operating Co Ltd;3;Oil & gas exploration and production;4039.060307;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;13048;Tyne;693628;515212;Perenco UK Ltd;3;Oil & gas exploration and production;449.2277211;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;13048;Tyne;693628;515212;Perenco UK Ltd;3;Oil & gas exploration and production;62.08067968;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;13048;Tyne;693628;515212;Perenco UK Ltd;3;Oil & gas exploration and production;49.64125214;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;13048;Tyne;693628;515212;Perenco UK Ltd;3;Oil & gas exploration and production;46.21981187;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;13048;Tyne;693628;515212;Perenco UK Ltd;3;Oil & gas exploration and production;0.095407063;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;13048;Tyne;693628;515212;Perenco UK Ltd;3;Oil & gas exploration and production;74.94302251;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;13048;Tyne;693628;515212;Perenco UK Ltd;3;Oil & gas exploration and production;62.27312836;Tonnes;Unallocated
+1998;2;Carbon Dioxide as Carbon;40732;Caister Murdoch Platform;680000;487000;ConocoPhillips;3;Oil & gas exploration and production;119.0243894;Tonnes;Unallocated
+1999;2;Carbon Dioxide as Carbon;40732;Caister Murdoch Platform;680000;487000;ConocoPhillips;3;Oil & gas exploration and production;44.17283818;Tonnes;Unallocated
+2000;2;Carbon Dioxide as Carbon;40732;Caister Murdoch Platform;680000;487000;ConocoPhillips;3;Oil & gas exploration and production;60.87755585;Tonnes;Unallocated
+2001;2;Carbon Dioxide as Carbon;40732;Caister Murdoch Platform;680000;487000;ConocoPhillips;3;Oil & gas exploration and production;62.730124;Tonnes;Unallocated
+2002;2;Carbon Dioxide as Carbon;40732;Caister Murdoch Platform;680000;487000;ConocoPhillips;3;Oil & gas exploration and production;87.81850461;Tonnes;Unallocated
+2003;2;Carbon Dioxide as Carbon;40732;Caister Murdoch Platform;680000;487000;ConocoPhillips;3;Oil & gas exploration and production;91.19303448;Tonnes;Unallocated
+2004;2;Carbon Dioxide as Carbon;40732;Caister Murdoch Platform;680000;487000;ConocoPhillips;3;Oil & gas exploration and production;104.4266507;Tonnes;Unallocated
